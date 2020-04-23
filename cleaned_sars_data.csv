@@ -1,0 +1,1374 @@
+Date,Country,region,cases,deaths,recoveries,delta cases,delta deaths,delta recoveries
+2003-03-17,Germany,western_europe,1,0,0,0.0,0.0,0.0
+2003-03-17,Singapore,south_east_asian,61,1,0,61.0,2.0,1.0
+2003-03-17,Thailand,south_east_asian,61,1,0,1.0,1.0,1.0
+2003-03-17,Viet Nam,south_east_asian,61,1,0,1.0,1.0,1.0
+2003-03-17,"Hong Kong SAR, China",east_asian,95,1,0,35.0,1.0,1.0
+2003-03-18,Germany,western_europe,3,0,0,0.0,0.0,0.0
+2003-03-18,United Kingdom,western_europe,3,0,0,1.0,1.0,1.0
+2003-03-18,Singapore,south_east_asian,81,1,0,79.0,2.0,1.0
+2003-03-18,Thailand,south_east_asian,81,1,0,1.0,1.0,1.0
+2003-03-18,Viet Nam,south_east_asian,81,1,0,1.0,1.0,1.0
+2003-03-18,China,east_asian,126,1,0,46.0,1.0,1.0
+2003-03-18,"Hong Kong SAR, China",east_asian,126,1,0,1.0,1.0,1.0
+2003-03-18,"Taiwan, China",east_asian,126,1,0,1.0,1.0,1.0
+2003-03-19,Germany,western_europe,3,0,0,0.0,0.0,0.0
+2003-03-19,Spain,western_europe,3,0,0,1.0,1.0,1.0
+2003-03-19,United Kingdom,western_europe,3,0,0,1.0,1.0,1.0
+2003-03-19,Singapore,south_east_asian,88,2,0,86.0,3.0,1.0
+2003-03-19,Thailand,south_east_asian,88,2,0,1.0,1.0,1.0
+2003-03-19,Viet Nam,south_east_asian,88,2,0,1.0,1.0,1.0
+2003-03-19,China,east_asian,153,5,0,66.0,4.0,1.0
+2003-03-19,"Hong Kong SAR, China",east_asian,153,5,0,1.0,1.0,1.0
+2003-03-19,"Taiwan, China",east_asian,153,5,0,1.0,1.0,1.0
+2003-03-20,Germany,western_europe,4,0,0,0.0,0.0,0.0
+2003-03-20,Spain,western_europe,4,0,0,1.0,1.0,1.0
+2003-03-20,United Kingdom,western_europe,4,0,0,1.0,1.0,1.0
+2003-03-20,Singapore,south_east_asian,97,2,0,94.0,3.0,1.0
+2003-03-20,Thailand,south_east_asian,97,2,0,1.0,1.0,1.0
+2003-03-20,Viet Nam,south_east_asian,97,2,0,1.0,1.0,1.0
+2003-03-20,China,east_asian,177,6,0,81.0,5.0,1.0
+2003-03-20,"Hong Kong SAR, China",east_asian,177,6,0,1.0,1.0,1.0
+2003-03-20,"Taiwan, China",east_asian,177,6,0,1.0,1.0,1.0
+2003-03-21,Germany,western_europe,5,0,0,0.0,0.0,0.0
+2003-03-21,Italy,western_europe,5,0,0,1.0,1.0,1.0
+2003-03-21,Spain,western_europe,5,0,0,1.0,1.0,1.0
+2003-03-21,United Kingdom,western_europe,5,0,0,1.0,1.0,1.0
+2003-03-21,Singapore,south_east_asian,105,2,0,101.0,3.0,1.0
+2003-03-21,Thailand,south_east_asian,105,2,0,1.0,1.0,1.0
+2003-03-21,Viet Nam,south_east_asian,105,2,0,1.0,1.0,1.0
+2003-03-21,China,east_asian,209,6,0,105.0,5.0,1.0
+2003-03-21,"Hong Kong SAR, China",east_asian,209,6,0,1.0,1.0,1.0
+2003-03-21,"Taiwan, China",east_asian,209,6,0,1.0,1.0,1.0
+2003-03-22,Germany,western_europe,7,0,0,0.0,0.0,0.0
+2003-03-22,Italy,western_europe,7,0,0,1.0,1.0,1.0
+2003-03-22,Spain,western_europe,7,0,0,1.0,1.0,1.0
+2003-03-22,United Kingdom,western_europe,7,0,0,1.0,1.0,1.0
+2003-03-22,Singapore,south_east_asian,111,2,0,105.0,3.0,1.0
+2003-03-22,Thailand,south_east_asian,111,2,0,1.0,1.0,1.0
+2003-03-22,Viet Nam,south_east_asian,111,2,0,1.0,1.0,1.0
+2003-03-22,China,east_asian,228,7,0,118.0,6.0,1.0
+2003-03-22,"Hong Kong SAR, China",east_asian,228,7,0,1.0,1.0,1.0
+2003-03-22,"Taiwan, China",east_asian,228,7,0,1.0,1.0,1.0
+2003-03-24,France,western_europe,11,0,0,0.0,0.0,0.0
+2003-03-24,Germany,western_europe,11,0,0,1.0,1.0,1.0
+2003-03-24,Italy,western_europe,11,0,0,1.0,1.0,1.0
+2003-03-24,Spain,western_europe,11,0,0,1.0,1.0,1.0
+2003-03-24,United Kingdom,western_europe,11,0,0,1.0,1.0,1.0
+2003-03-24,Singapore,south_east_asian,128,4,0,118.0,5.0,1.0
+2003-03-24,Thailand,south_east_asian,128,4,0,1.0,1.0,1.0
+2003-03-24,Viet Nam,south_east_asian,128,4,0,1.0,1.0,1.0
+2003-03-24,China,east_asian,266,10,0,139.0,7.0,1.0
+2003-03-24,"Hong Kong SAR, China",east_asian,266,10,0,1.0,1.0,1.0
+2003-03-24,"Taiwan, China",east_asian,266,10,0,1.0,1.0,1.0
+2003-03-25,France,western_europe,10,0,0,0.0,0.0,0.0
+2003-03-25,Germany,western_europe,10,0,0,1.0,1.0,1.0
+2003-03-25,Italy,western_europe,10,0,0,1.0,1.0,1.0
+2003-03-25,United Kingdom,western_europe,10,0,0,1.0,1.0,1.0
+2003-03-25,Singapore,south_east_asian,132,4,0,123.0,5.0,1.0
+2003-03-25,Thailand,south_east_asian,132,4,0,1.0,1.0,1.0
+2003-03-25,Viet Nam,south_east_asian,132,4,0,1.0,1.0,1.0
+2003-03-25,China,east_asian,292,10,0,161.0,7.0,1.0
+2003-03-25,"Hong Kong SAR, China",east_asian,292,10,0,1.0,1.0,1.0
+2003-03-25,"Taiwan, China",east_asian,292,10,0,1.0,1.0,1.0
+2003-03-26,France,western_europe,11,0,0,0.0,0.0,0.0
+2003-03-26,Germany,western_europe,11,0,0,1.0,1.0,1.0
+2003-03-26,Italy,western_europe,11,0,0,1.0,1.0,1.0
+2003-03-26,United Kingdom,western_europe,11,0,0,1.0,1.0,1.0
+2003-03-26,Singapore,south_east_asian,135,5,0,125.0,6.0,1.0
+2003-03-26,Thailand,south_east_asian,135,5,0,1.0,1.0,1.0
+2003-03-26,Viet Nam,south_east_asian,135,5,0,1.0,1.0,1.0
+2003-03-26,China,east_asian,1114,41,0,980.0,37.0,1.0
+2003-03-26,"Hong Kong SAR, China",east_asian,1114,41,0,1.0,1.0,1.0
+2003-03-26,"Taiwan, China",east_asian,1114,41,0,1.0,1.0,1.0
+2003-03-27,France,western_europe,10,0,0,0.0,0.0,0.0
+2003-03-27,Germany,western_europe,10,0,0,1.0,1.0,1.0
+2003-03-27,Italy,western_europe,10,0,0,1.0,1.0,1.0
+2003-03-27,United Kingdom,western_europe,10,0,0,1.0,1.0,1.0
+2003-03-27,Singapore,south_east_asian,139,6,0,130.0,7.0,1.0
+2003-03-27,Thailand,south_east_asian,139,6,0,1.0,1.0,1.0
+2003-03-27,Viet Nam,south_east_asian,139,6,0,1.0,1.0,1.0
+2003-03-27,China,east_asian,1179,44,0,1041.0,39.0,1.0
+2003-03-27,"Hong Kong SAR, China",east_asian,1179,44,0,1.0,1.0,1.0
+2003-03-27,"Taiwan, China",east_asian,1179,44,0,1.0,1.0,1.0
+2003-03-28,France,western_europe,10,0,0,0.0,0.0,0.0
+2003-03-28,Germany,western_europe,10,0,0,1.0,1.0,1.0
+2003-03-28,Italy,western_europe,10,0,0,1.0,1.0,1.0
+2003-03-28,United Kingdom,western_europe,10,0,0,1.0,1.0,1.0
+2003-03-28,Singapore,south_east_asian,147,6,0,138.0,7.0,1.0
+2003-03-28,Thailand,south_east_asian,147,6,0,1.0,1.0,1.0
+2003-03-28,Viet Nam,south_east_asian,147,6,0,1.0,1.0,1.0
+2003-03-28,China,east_asian,1241,44,0,1095.0,39.0,1.0
+2003-03-28,"Hong Kong SAR, China",east_asian,1241,44,0,1.0,1.0,1.0
+2003-03-28,"Taiwan, China",east_asian,1241,44,0,1.0,1.0,1.0
+2003-03-29,France,western_europe,10,0,0,0.0,0.0,0.0
+2003-03-29,Germany,western_europe,10,0,0,1.0,1.0,1.0
+2003-03-29,Italy,western_europe,10,0,0,1.0,1.0,1.0
+2003-03-29,United Kingdom,western_europe,10,0,0,1.0,1.0,1.0
+2003-03-29,Singapore,south_east_asian,150,7,0,141.0,8.0,1.0
+2003-03-29,Thailand,south_east_asian,150,7,0,1.0,1.0,1.0
+2003-03-29,Viet Nam,south_east_asian,150,7,0,1.0,1.0,1.0
+2003-03-29,China,east_asian,1286,44,0,1137.0,38.0,1.0
+2003-03-29,"Hong Kong SAR, China",east_asian,1286,44,0,1.0,1.0,1.0
+2003-03-29,"Taiwan, China",east_asian,1286,44,0,1.0,1.0,1.0
+2003-03-31,France,western_europe,11,0,0,0.0,0.0,0.0
+2003-03-31,Germany,western_europe,11,0,0,1.0,1.0,1.0
+2003-03-31,Italy,western_europe,11,0,0,1.0,1.0,1.0
+2003-03-31,United Kingdom,western_europe,11,0,0,1.0,1.0,1.0
+2003-03-31,Singapore,south_east_asian,154,7,0,144.0,8.0,1.0
+2003-03-31,Thailand,south_east_asian,154,7,0,1.0,1.0,1.0
+2003-03-31,Viet Nam,south_east_asian,154,7,0,1.0,1.0,1.0
+2003-03-31,China,east_asian,1346,47,0,1193.0,41.0,1.0
+2003-03-31,"Hong Kong SAR, China",east_asian,1346,47,0,1.0,1.0,1.0
+2003-03-31,"Taiwan, China",east_asian,1346,47,0,1.0,1.0,1.0
+2003-04-01,France,western_europe,12,0,0,0.0,0.0,0.0
+2003-04-01,Germany,western_europe,12,0,0,1.0,1.0,1.0
+2003-04-01,Italy,western_europe,12,0,0,1.0,1.0,1.0
+2003-04-01,United Kingdom,western_europe,12,0,0,1.0,1.0,1.0
+2003-04-01,Singapore,south_east_asian,156,8,0,145.0,9.0,1.0
+2003-04-01,Thailand,south_east_asian,156,8,0,1.0,1.0,1.0
+2003-04-01,Viet Nam,south_east_asian,156,8,0,1.0,1.0,1.0
+2003-04-01,China,east_asian,1504,50,0,1349.0,43.0,1.0
+2003-04-01,"Hong Kong SAR, China",east_asian,1504,50,0,1.0,1.0,1.0
+2003-04-01,"Taiwan, China",east_asian,1504,50,0,1.0,1.0,1.0
+2003-04-02,France,western_europe,13,0,0,0.0,0.0,0.0
+2003-04-02,Germany,western_europe,13,0,0,1.0,1.0,1.0
+2003-04-02,Italy,western_europe,13,0,0,1.0,1.0,1.0
+2003-04-02,Spain,western_europe,13,0,0,1.0,1.0,1.0
+2003-04-02,United Kingdom,western_europe,13,0,0,1.0,1.0,1.0
+2003-04-02,Singapore,south_east_asian,160,10,0,148.0,11.0,1.0
+2003-04-02,Thailand,south_east_asian,160,10,0,1.0,1.0,1.0
+2003-04-02,Viet Nam,south_east_asian,160,10,0,1.0,1.0,1.0
+2003-04-02,China,east_asian,1911,62,0,1752.0,53.0,1.0
+2003-04-02,"Hong Kong SAR, China",east_asian,1911,62,0,1.0,1.0,1.0
+2003-04-02,"Taiwan, China",east_asian,1911,62,0,1.0,1.0,1.0
+2003-04-03,France,western_europe,14,0,0,0.0,0.0,0.0
+2003-04-03,Germany,western_europe,14,0,0,1.0,1.0,1.0
+2003-04-03,Italy,western_europe,14,0,0,1.0,1.0,1.0
+2003-04-03,United Kingdom,western_europe,14,0,0,1.0,1.0,1.0
+2003-04-03,Singapore,south_east_asian,164,10,0,151.0,11.0,1.0
+2003-04-03,Thailand,south_east_asian,164,10,0,1.0,1.0,1.0
+2003-04-03,Viet Nam,south_east_asian,164,10,0,1.0,1.0,1.0
+2003-04-03,China,east_asian,1938,63,0,1775.0,54.0,1.0
+2003-04-03,"Hong Kong SAR, China",east_asian,1938,63,0,1.0,1.0,1.0
+2003-04-03,"Taiwan, China",east_asian,1938,63,0,1.0,1.0,1.0
+2003-04-04,France,western_europe,15,0,0,0.0,0.0,0.0
+2003-04-04,Germany,western_europe,15,0,0,1.0,1.0,1.0
+2003-04-04,Italy,western_europe,15,0,0,1.0,1.0,1.0
+2003-04-04,Spain,western_europe,15,0,0,1.0,1.0,1.0
+2003-04-04,United Kingdom,western_europe,15,0,0,1.0,1.0,1.0
+2003-04-04,Singapore,south_east_asian,166,11,0,152.0,12.0,1.0
+2003-04-04,Thailand,south_east_asian,166,11,0,1.0,1.0,1.0
+2003-04-04,Viet Nam,south_east_asian,166,11,0,1.0,1.0,1.0
+2003-04-04,China,east_asian,1996,66,0,1831.0,56.0,1.0
+2003-04-04,"Hong Kong SAR, China",east_asian,1996,66,0,1.0,1.0,1.0
+2003-04-04,"Taiwan, China",east_asian,1996,66,0,1.0,1.0,1.0
+2003-04-05,France,western_europe,16,0,0,0.0,0.0,0.0
+2003-04-05,Germany,western_europe,16,0,0,1.0,1.0,1.0
+2003-04-05,Italy,western_europe,16,0,0,1.0,1.0,1.0
+2003-04-05,Spain,western_europe,16,0,0,1.0,1.0,1.0
+2003-04-05,United Kingdom,western_europe,16,0,0,1.0,1.0,1.0
+2003-04-05,Malaysia,south_east_asian,168,13,0,153.0,14.0,1.0
+2003-04-05,Singapore,south_east_asian,168,13,0,1.0,1.0,1.0
+2003-04-05,Thailand,south_east_asian,168,13,0,1.0,1.0,1.0
+2003-04-05,Viet Nam,south_east_asian,168,13,0,1.0,1.0,1.0
+2003-04-05,China,east_asian,2037,69,0,1870.0,57.0,1.0
+2003-04-05,"Hong Kong SAR, China",east_asian,2037,69,0,1.0,1.0,1.0
+2003-04-05,"Taiwan, China",east_asian,2037,69,0,1.0,1.0,1.0
+2003-04-07,France,western_europe,17,0,0,0.0,0.0,0.0
+2003-04-07,Germany,western_europe,17,0,0,1.0,1.0,1.0
+2003-04-07,Italy,western_europe,17,0,0,1.0,1.0,1.0
+2003-04-07,Spain,western_europe,17,0,0,1.0,1.0,1.0
+2003-04-07,United Kingdom,western_europe,17,0,0,1.0,1.0,1.0
+2003-04-07,Malaysia,south_east_asian,176,13,0,160.0,14.0,1.0
+2003-04-07,Singapore,south_east_asian,176,13,0,1.0,1.0,1.0
+2003-04-07,Thailand,south_east_asian,176,13,0,1.0,1.0,1.0
+2003-04-07,Viet Nam,south_east_asian,176,13,0,1.0,1.0,1.0
+2003-04-07,China,east_asian,2172,76,0,1997.0,64.0,1.0
+2003-04-07,"Hong Kong SAR, China",east_asian,2172,76,0,1.0,1.0,1.0
+2003-04-07,"Taiwan, China",east_asian,2172,76,0,1.0,1.0,1.0
+2003-04-08,France,western_europe,18,0,0,0.0,0.0,0.0
+2003-04-08,Germany,western_europe,18,0,0,1.0,1.0,1.0
+2003-04-08,Italy,western_europe,18,0,0,1.0,1.0,1.0
+2003-04-08,Spain,western_europe,18,0,0,1.0,1.0,1.0
+2003-04-08,United Kingdom,western_europe,18,0,0,1.0,1.0,1.0
+2003-04-08,Malaysia,south_east_asian,183,15,0,166.0,16.0,1.0
+2003-04-08,Singapore,south_east_asian,183,15,0,1.0,1.0,1.0
+2003-04-08,Thailand,south_east_asian,183,15,0,1.0,1.0,1.0
+2003-04-08,Viet Nam,south_east_asian,183,15,0,1.0,1.0,1.0
+2003-04-08,China,east_asian,2226,78,0,2044.0,64.0,1.0
+2003-04-08,"Hong Kong SAR, China",east_asian,2226,78,0,1.0,1.0,1.0
+2003-04-08,"Taiwan, China",east_asian,2226,78,0,1.0,1.0,1.0
+2003-04-09,France,western_europe,18,0,0,0.0,0.0,0.0
+2003-04-09,Germany,western_europe,18,0,0,1.0,1.0,1.0
+2003-04-09,Italy,western_europe,18,0,0,1.0,1.0,1.0
+2003-04-09,Spain,western_europe,18,0,0,1.0,1.0,1.0
+2003-04-09,United Kingdom,western_europe,18,0,0,1.0,1.0,1.0
+2003-04-09,Malaysia,south_east_asian,188,16,0,171.0,17.0,1.0
+2003-04-09,Singapore,south_east_asian,188,16,0,1.0,1.0,1.0
+2003-04-09,Thailand,south_east_asian,188,16,0,1.0,1.0,1.0
+2003-04-09,Viet Nam,south_east_asian,188,16,0,1.0,1.0,1.0
+2003-04-09,China,east_asian,2269,80,0,2082.0,65.0,1.0
+2003-04-09,"Hong Kong SAR, China",east_asian,2269,80,0,1.0,1.0,1.0
+2003-04-09,"Taiwan, China",east_asian,2269,80,0,1.0,1.0,1.0
+2003-04-10,France,western_europe,19,0,6,0.0,0.0,0.0
+2003-04-10,Germany,western_europe,19,0,6,1.0,1.0,1.0
+2003-04-10,Italy,western_europe,19,0,6,1.0,1.0,1.0
+2003-04-10,Spain,western_europe,19,0,6,1.0,1.0,1.0
+2003-04-10,United Kingdom,western_europe,19,0,6,1.0,1.0,1.0
+2003-04-10,Malaysia,south_east_asian,198,16,123,180.0,17.0,118.0
+2003-04-10,Singapore,south_east_asian,198,16,123,1.0,1.0,1.0
+2003-04-10,Thailand,south_east_asian,198,16,123,1.0,1.0,1.0
+2003-04-10,Viet Nam,south_east_asian,198,16,123,1.0,1.0,1.0
+2003-04-10,China,east_asian,2307,85,1184,2110.0,70.0,1062.0
+2003-04-10,"Hong Kong SAR, China",east_asian,2307,85,1184,1.0,1.0,1.0
+2003-04-10,"Taiwan, China",east_asian,2307,85,1184,1.0,1.0,1.0
+2003-04-11,France,western_europe,20,0,9,0.0,0.0,0.0
+2003-04-11,Germany,western_europe,20,0,9,1.0,1.0,1.0
+2003-04-11,Italy,western_europe,20,0,9,1.0,1.0,1.0
+2003-04-11,Spain,western_europe,20,0,9,1.0,1.0,1.0
+2003-04-11,United Kingdom,western_europe,20,0,9,1.0,1.0,1.0
+2003-04-11,Malaysia,south_east_asian,206,16,125,187.0,17.0,117.0
+2003-04-11,Singapore,south_east_asian,206,16,125,1.0,1.0,1.0
+2003-04-11,Thailand,south_east_asian,206,16,125,1.0,1.0,1.0
+2003-04-11,Viet Nam,south_east_asian,206,16,125,1.0,1.0,1.0
+2003-04-11,China,east_asian,2389,90,1212,2184.0,75.0,1088.0
+2003-04-11,"Hong Kong SAR, China",east_asian,2389,90,1212,1.0,1.0,1.0
+2003-04-11,"Taiwan, China",east_asian,2389,90,1212,1.0,1.0,1.0
+2003-04-12,France,western_europe,21,0,10,0.0,0.0,0.0
+2003-04-12,Germany,western_europe,21,0,10,1.0,1.0,1.0
+2003-04-12,Italy,western_europe,21,0,10,1.0,1.0,1.0
+2003-04-12,Spain,western_europe,21,0,10,1.0,1.0,1.0
+2003-04-12,United Kingdom,western_europe,21,0,10,1.0,1.0,1.0
+2003-04-12,Malaysia,south_east_asian,159,12,82,139.0,13.0,73.0
+2003-04-12,Singapore,south_east_asian,159,12,82,1.0,1.0,1.0
+2003-04-12,Thailand,south_east_asian,159,12,82,1.0,1.0,1.0
+2003-04-12,China,east_asian,2502,97,1305,2344.0,86.0,1224.0
+2003-04-12,"Hong Kong SAR, China",east_asian,2502,97,1305,1.0,1.0,1.0
+2003-04-12,"Taiwan, China",east_asian,2502,97,1305,1.0,1.0,1.0
+2003-04-12,China,east_asian,2502,97,1305,1.0,1.0,1.0
+2003-04-14,France,western_europe,21,0,10,0.0,0.0,0.0
+2003-04-14,Germany,western_europe,21,0,10,1.0,1.0,1.0
+2003-04-14,Italy,western_europe,21,0,10,1.0,1.0,1.0
+2003-04-14,Spain,western_europe,21,0,10,1.0,1.0,1.0
+2003-04-14,United Kingdom,western_europe,21,0,10,1.0,1.0,1.0
+2003-04-14,Indonesia,south_east_asian,235,20,136,215.0,21.0,127.0
+2003-04-14,Malaysia,south_east_asian,235,20,136,1.0,1.0,1.0
+2003-04-14,Philippines,south_east_asian,235,20,136,1.0,1.0,1.0
+2003-04-14,Singapore,south_east_asian,235,20,136,1.0,1.0,1.0
+2003-04-14,Thailand,south_east_asian,235,20,136,1.0,1.0,1.0
+2003-04-14,Viet Nam,south_east_asian,235,20,136,1.0,1.0,1.0
+2003-04-14,China,east_asian,2631,111,1324,2397.0,92.0,1189.0
+2003-04-14,"Hong Kong SAR, China",east_asian,2631,111,1324,1.0,1.0,1.0
+2003-04-14,"Taiwan, China",east_asian,2631,111,1324,1.0,1.0,1.0
+2003-04-15,France,western_europe,21,0,10,0.0,0.0,0.0
+2003-04-15,Germany,western_europe,21,0,10,1.0,1.0,1.0
+2003-04-15,Italy,western_europe,21,0,10,1.0,1.0,1.0
+2003-04-15,Spain,western_europe,21,0,10,1.0,1.0,1.0
+2003-04-15,United Kingdom,western_europe,21,0,10,1.0,1.0,1.0
+2003-04-15,Indonesia,south_east_asian,239,21,137,219.0,22.0,128.0
+2003-04-15,Malaysia,south_east_asian,239,21,137,1.0,1.0,1.0
+2003-04-15,Philippines,south_east_asian,239,21,137,1.0,1.0,1.0
+2003-04-15,Singapore,south_east_asian,239,21,137,1.0,1.0,1.0
+2003-04-15,Thailand,south_east_asian,239,21,137,1.0,1.0,1.0
+2003-04-15,Viet Nam,south_east_asian,239,21,137,1.0,1.0,1.0
+2003-04-15,China,east_asian,2673,120,1338,2435.0,100.0,1202.0
+2003-04-15,"Hong Kong SAR, China",east_asian,2673,120,1338,1.0,1.0,1.0
+2003-04-15,"Taiwan, China",east_asian,2673,120,1338,1.0,1.0,1.0
+2003-04-16,France,western_europe,21,0,10,0.0,0.0,0.0
+2003-04-16,Germany,western_europe,21,0,10,1.0,1.0,1.0
+2003-04-16,Italy,western_europe,21,0,10,1.0,1.0,1.0
+2003-04-16,Spain,western_europe,21,0,10,1.0,1.0,1.0
+2003-04-16,United Kingdom,western_europe,21,0,10,1.0,1.0,1.0
+2003-04-16,Indonesia,south_east_asian,240,21,137,220.0,22.0,128.0
+2003-04-16,Malaysia,south_east_asian,240,21,137,1.0,1.0,1.0
+2003-04-16,Philippines,south_east_asian,240,21,137,1.0,1.0,1.0
+2003-04-16,Singapore,south_east_asian,240,21,137,1.0,1.0,1.0
+2003-04-16,Thailand,south_east_asian,240,21,137,1.0,1.0,1.0
+2003-04-16,Viet Nam,south_east_asian,240,21,137,1.0,1.0,1.0
+2003-04-16,China,east_asian,2727,125,1361,2488.0,105.0,1225.0
+2003-04-16,"Hong Kong SAR, China",east_asian,2727,125,1361,1.0,1.0,1.0
+2003-04-16,"Taiwan, China",east_asian,2727,125,1361,1.0,1.0,1.0
+2003-04-17,France,western_europe,21,0,10,0.0,0.0,0.0
+2003-04-17,Germany,western_europe,21,0,10,1.0,1.0,1.0
+2003-04-17,Italy,western_europe,21,0,10,1.0,1.0,1.0
+2003-04-17,Spain,western_europe,21,0,10,1.0,1.0,1.0
+2003-04-17,United Kingdom,western_europe,21,0,10,1.0,1.0,1.0
+2003-04-17,Indonesia,south_east_asian,245,23,143,225.0,24.0,134.0
+2003-04-17,Malaysia,south_east_asian,245,23,143,1.0,1.0,1.0
+2003-04-17,Philippines,south_east_asian,245,23,143,1.0,1.0,1.0
+2003-04-17,Singapore,south_east_asian,245,23,143,1.0,1.0,1.0
+2003-04-17,Thailand,south_east_asian,245,23,143,1.0,1.0,1.0
+2003-04-17,Viet Nam,south_east_asian,245,23,143,1.0,1.0,1.0
+2003-04-17,China,east_asian,2781,130,1389,2537.0,108.0,1247.0
+2003-04-17,"Hong Kong SAR, China",east_asian,2781,130,1389,1.0,1.0,1.0
+2003-04-17,"Taiwan, China",east_asian,2781,130,1389,1.0,1.0,1.0
+2003-04-18,France,western_europe,21,0,12,0.0,0.0,0.0
+2003-04-18,Germany,western_europe,21,0,12,1.0,1.0,1.0
+2003-04-18,Italy,western_europe,21,0,12,1.0,1.0,1.0
+2003-04-18,Spain,western_europe,21,0,12,1.0,1.0,1.0
+2003-04-18,United Kingdom,western_europe,21,0,12,1.0,1.0,1.0
+2003-04-18,Indonesia,south_east_asian,254,24,153,234.0,25.0,142.0
+2003-04-18,Malaysia,south_east_asian,254,24,153,1.0,1.0,1.0
+2003-04-18,Philippines,south_east_asian,254,24,153,1.0,1.0,1.0
+2003-04-18,Singapore,south_east_asian,254,24,153,1.0,1.0,1.0
+2003-04-18,Thailand,south_east_asian,254,24,153,1.0,1.0,1.0
+2003-04-18,Viet Nam,south_east_asian,254,24,153,1.0,1.0,1.0
+2003-04-18,China,east_asian,2899,146,1520,2646.0,123.0,1368.0
+2003-04-18,"Hong Kong SAR, China",east_asian,2899,146,1520,1.0,1.0,1.0
+2003-04-18,"Taiwan, China",east_asian,2899,146,1520,1.0,1.0,1.0
+2003-04-19,France,western_europe,21,0,12,0.0,0.0,0.0
+2003-04-19,Germany,western_europe,21,0,12,1.0,1.0,1.0
+2003-04-19,Italy,western_europe,21,0,12,1.0,1.0,1.0
+2003-04-19,Spain,western_europe,21,0,12,1.0,1.0,1.0
+2003-04-19,United Kingdom,western_europe,21,0,12,1.0,1.0,1.0
+2003-04-19,Indonesia,south_east_asian,254,24,153,234.0,25.0,142.0
+2003-04-19,Malaysia,south_east_asian,254,24,153,1.0,1.0,1.0
+2003-04-19,Philippines,south_east_asian,254,24,153,1.0,1.0,1.0
+2003-04-19,Singapore,south_east_asian,254,24,153,1.0,1.0,1.0
+2003-04-19,Thailand,south_east_asian,254,24,153,1.0,1.0,1.0
+2003-04-19,Viet Nam,south_east_asian,254,24,153,1.0,1.0,1.0
+2003-04-19,China,east_asian,2899,146,1520,2646.0,123.0,1368.0
+2003-04-19,"Hong Kong SAR, China",east_asian,2899,146,1520,1.0,1.0,1.0
+2003-04-19,"Taiwan, China",east_asian,2899,146,1520,1.0,1.0,1.0
+2003-04-21,France,western_europe,21,0,12,0.0,0.0,0.0
+2003-04-21,Germany,western_europe,21,0,12,1.0,1.0,1.0
+2003-04-21,Italy,western_europe,21,0,12,1.0,1.0,1.0
+2003-04-21,Spain,western_europe,21,0,12,1.0,1.0,1.0
+2003-04-21,United Kingdom,western_europe,21,0,12,1.0,1.0,1.0
+2003-04-21,Indonesia,south_east_asian,257,25,156,237.0,26.0,145.0
+2003-04-21,Malaysia,south_east_asian,257,25,156,1.0,1.0,1.0
+2003-04-21,Philippines,south_east_asian,257,25,156,1.0,1.0,1.0
+2003-04-21,Singapore,south_east_asian,257,25,156,1.0,1.0,1.0
+2003-04-21,Thailand,south_east_asian,257,25,156,1.0,1.0,1.0
+2003-04-21,Viet Nam,south_east_asian,257,25,156,1.0,1.0,1.0
+2003-04-21,China,east_asian,3390,180,1640,3134.0,156.0,1485.0
+2003-04-21,"Hong Kong SAR, China",east_asian,3390,180,1640,1.0,1.0,1.0
+2003-04-21,"Taiwan, China",east_asian,3390,180,1640,1.0,1.0,1.0
+2003-04-22,France,western_europe,22,0,14,0.0,0.0,0.0
+2003-04-22,Germany,western_europe,22,0,14,1.0,1.0,1.0
+2003-04-22,Italy,western_europe,22,0,14,1.0,1.0,1.0
+2003-04-22,Spain,western_europe,22,0,14,1.0,1.0,1.0
+2003-04-22,United Kingdom,western_europe,22,0,14,1.0,1.0,1.0
+2003-04-22,Indonesia,south_east_asian,265,25,162,244.0,26.0,149.0
+2003-04-22,Malaysia,south_east_asian,265,25,162,1.0,1.0,1.0
+2003-04-22,Philippines,south_east_asian,265,25,162,1.0,1.0,1.0
+2003-04-22,Singapore,south_east_asian,265,25,162,1.0,1.0,1.0
+2003-04-22,Thailand,south_east_asian,265,25,162,1.0,1.0,1.0
+2003-04-22,Viet Nam,south_east_asian,265,25,162,1.0,1.0,1.0
+2003-04-22,China,east_asian,3464,191,1683,3200.0,167.0,1522.0
+2003-04-22,"Hong Kong SAR, China",east_asian,3464,191,1683,1.0,1.0,1.0
+2003-04-22,"Taiwan, China",east_asian,3464,191,1683,1.0,1.0,1.0
+2003-04-23,France,western_europe,22,0,14,0.0,0.0,0.0
+2003-04-23,Germany,western_europe,22,0,14,1.0,1.0,1.0
+2003-04-23,Italy,western_europe,22,0,14,1.0,1.0,1.0
+2003-04-23,Spain,western_europe,22,0,14,1.0,1.0,1.0
+2003-04-23,United Kingdom,western_europe,22,0,14,1.0,1.0,1.0
+2003-04-23,Indonesia,south_east_asian,267,27,168,246.0,28.0,155.0
+2003-04-23,Malaysia,south_east_asian,267,27,168,1.0,1.0,1.0
+2003-04-23,Philippines,south_east_asian,267,27,168,1.0,1.0,1.0
+2003-04-23,Singapore,south_east_asian,267,27,168,1.0,1.0,1.0
+2003-04-23,Thailand,south_east_asian,267,27,168,1.0,1.0,1.0
+2003-04-23,Viet Nam,south_east_asian,267,27,168,1.0,1.0,1.0
+2003-04-23,China,east_asian,3800,211,1774,3534.0,185.0,1607.0
+2003-04-23,"Hong Kong SAR, China",east_asian,3800,211,1774,1.0,1.0,1.0
+2003-04-23,"Taiwan, China",east_asian,3800,211,1774,1.0,1.0,1.0
+2003-04-24,France,western_europe,23,0,17,0.0,0.0,0.0
+2003-04-24,Germany,western_europe,23,0,17,1.0,1.0,1.0
+2003-04-24,Italy,western_europe,23,0,17,1.0,1.0,1.0
+2003-04-24,Spain,western_europe,23,0,17,1.0,1.0,1.0
+2003-04-24,United Kingdom,western_europe,23,0,17,1.0,1.0,1.0
+2003-04-24,Indonesia,south_east_asian,271,29,176,249.0,30.0,160.0
+2003-04-24,Malaysia,south_east_asian,271,29,176,1.0,1.0,1.0
+2003-04-24,Philippines,south_east_asian,271,29,176,1.0,1.0,1.0
+2003-04-24,Singapore,south_east_asian,271,29,176,1.0,1.0,1.0
+2003-04-24,Thailand,south_east_asian,271,29,176,1.0,1.0,1.0
+2003-04-24,Viet Nam,south_east_asian,271,29,176,1.0,1.0,1.0
+2003-04-24,China,east_asian,3947,219,1842,3677.0,191.0,1667.0
+2003-04-24,"Hong Kong SAR, China",east_asian,3947,219,1842,1.0,1.0,1.0
+2003-04-24,"Taiwan, China",east_asian,3947,219,1842,1.0,1.0,1.0
+2003-04-25,France,western_europe,23,0,17,0.0,0.0,0.0
+2003-04-25,Germany,western_europe,23,0,17,1.0,1.0,1.0
+2003-04-25,Italy,western_europe,23,0,17,1.0,1.0,1.0
+2003-04-25,Spain,western_europe,23,0,17,1.0,1.0,1.0
+2003-04-25,United Kingdom,western_europe,23,0,17,1.0,1.0,1.0
+2003-04-25,Indonesia,south_east_asian,274,29,188,252.0,30.0,172.0
+2003-04-25,Malaysia,south_east_asian,274,29,188,1.0,1.0,1.0
+2003-04-25,Philippines,south_east_asian,274,29,188,1.0,1.0,1.0
+2003-04-25,Singapore,south_east_asian,274,29,188,1.0,1.0,1.0
+2003-04-25,Thailand,south_east_asian,274,29,188,1.0,1.0,1.0
+2003-04-25,Viet Nam,south_east_asian,274,29,188,1.0,1.0,1.0
+2003-04-25,China,east_asian,4152,230,1912,3879.0,202.0,1725.0
+2003-04-25,"Hong Kong SAR, China",east_asian,4152,230,1912,1.0,1.0,1.0
+2003-04-25,"Taiwan, China",east_asian,4152,230,1912,1.0,1.0,1.0
+2003-04-26,France,western_europe,23,0,17,0.0,0.0,0.0
+2003-04-26,Germany,western_europe,23,0,17,1.0,1.0,1.0
+2003-04-26,Italy,western_europe,23,0,17,1.0,1.0,1.0
+2003-04-26,Spain,western_europe,23,0,17,1.0,1.0,1.0
+2003-04-26,United Kingdom,western_europe,23,0,17,1.0,1.0,1.0
+2003-04-26,Indonesia,south_east_asian,278,32,188,256.0,33.0,172.0
+2003-04-26,Malaysia,south_east_asian,278,32,188,1.0,1.0,1.0
+2003-04-26,Philippines,south_east_asian,278,32,188,1.0,1.0,1.0
+2003-04-26,Singapore,south_east_asian,278,32,188,1.0,1.0,1.0
+2003-04-26,Thailand,south_east_asian,278,32,188,1.0,1.0,1.0
+2003-04-26,Viet Nam,south_east_asian,278,32,188,1.0,1.0,1.0
+2003-04-26,China,east_asian,4329,243,1942,4052.0,212.0,1755.0
+2003-04-26,"Hong Kong SAR, China",east_asian,4329,243,1942,1.0,1.0,1.0
+2003-04-26,"Taiwan, China",east_asian,4329,243,1942,1.0,1.0,1.0
+2003-04-28,France,western_europe,27,0,17,0.0,0.0,0.0
+2003-04-28,Germany,western_europe,27,0,17,1.0,1.0,1.0
+2003-04-28,Italy,western_europe,27,0,17,1.0,1.0,1.0
+2003-04-28,Spain,western_europe,27,0,17,1.0,1.0,1.0
+2003-04-28,United Kingdom,western_europe,27,0,17,1.0,1.0,1.0
+2003-04-28,Indonesia,south_east_asian,280,34,199,254.0,35.0,183.0
+2003-04-28,Malaysia,south_east_asian,280,34,199,1.0,1.0,1.0
+2003-04-28,Philippines,south_east_asian,280,34,199,1.0,1.0,1.0
+2003-04-28,Singapore,south_east_asian,280,34,199,1.0,1.0,1.0
+2003-04-28,Thailand,south_east_asian,280,34,199,1.0,1.0,1.0
+2003-04-28,Viet Nam,south_east_asian,280,34,199,1.0,1.0,1.0
+2003-04-28,China,east_asian,4537,269,2034,4258.0,236.0,1836.0
+2003-04-28,"Hong Kong SAR, China",east_asian,4537,269,2034,1.0,1.0,1.0
+2003-04-28,"Taiwan, China",east_asian,4537,269,2034,1.0,1.0,1.0
+2003-04-29,France,western_europe,28,0,18,0.0,0.0,0.0
+2003-04-29,Germany,western_europe,28,0,18,1.0,1.0,1.0
+2003-04-29,Italy,western_europe,28,0,18,1.0,1.0,1.0
+2003-04-29,Spain,western_europe,28,0,18,1.0,1.0,1.0
+2003-04-29,United Kingdom,western_europe,28,0,18,1.0,1.0,1.0
+2003-04-29,Indonesia,south_east_asian,282,35,202,255.0,36.0,185.0
+2003-04-29,Malaysia,south_east_asian,282,35,202,1.0,1.0,1.0
+2003-04-29,Philippines,south_east_asian,282,35,202,1.0,1.0,1.0
+2003-04-29,Singapore,south_east_asian,282,35,202,1.0,1.0,1.0
+2003-04-29,Thailand,south_east_asian,282,35,202,1.0,1.0,1.0
+2003-04-29,Viet Nam,south_east_asian,282,35,202,1.0,1.0,1.0
+2003-04-29,China,east_asian,4942,298,2106,4661.0,264.0,1905.0
+2003-04-29,"Hong Kong SAR, China",east_asian,4942,298,2106,1.0,1.0,1.0
+2003-04-29,"Taiwan, China",east_asian,4942,298,2106,1.0,1.0,1.0
+2003-04-29,Republic of Korea,east_asian,4942,298,2106,1.0,1.0,1.0
+2003-04-30,France,western_europe,28,0,19,0.0,0.0,0.0
+2003-04-30,Germany,western_europe,28,0,19,1.0,1.0,1.0
+2003-04-30,Italy,western_europe,28,0,19,1.0,1.0,1.0
+2003-04-30,Spain,western_europe,28,0,19,1.0,1.0,1.0
+2003-04-30,United Kingdom,western_europe,28,0,19,1.0,1.0,1.0
+2003-04-30,Indonesia,south_east_asian,283,35,202,256.0,36.0,184.0
+2003-04-30,Malaysia,south_east_asian,283,35,202,1.0,1.0,1.0
+2003-04-30,Philippines,south_east_asian,283,35,202,1.0,1.0,1.0
+2003-04-30,Singapore,south_east_asian,283,35,202,1.0,1.0,1.0
+2003-04-30,Thailand,south_east_asian,283,35,202,1.0,1.0,1.0
+2003-04-30,Viet Nam,south_east_asian,283,35,202,1.0,1.0,1.0
+2003-04-30,China,east_asian,5129,317,2148,4847.0,283.0,1947.0
+2003-04-30,"Hong Kong SAR, China",east_asian,5129,317,2148,1.0,1.0,1.0
+2003-04-30,"Macao SAR, China",east_asian,5129,317,2148,1.0,1.0,1.0
+2003-04-30,"Taiwan, China",east_asian,5129,317,2148,1.0,1.0,1.0
+2003-04-30,Republic of Korea,east_asian,5129,317,2148,1.0,1.0,1.0
+2003-05-01,France,western_europe,28,0,19,0.0,0.0,0.0
+2003-05-01,Germany,western_europe,28,0,19,1.0,1.0,1.0
+2003-05-01,Italy,western_europe,28,0,19,1.0,1.0,1.0
+2003-05-01,Spain,western_europe,28,0,19,1.0,1.0,1.0
+2003-05-01,United Kingdom,western_europe,28,0,19,1.0,1.0,1.0
+2003-05-01,Indonesia,south_east_asian,283,36,209,256.0,37.0,191.0
+2003-05-01,Malaysia,south_east_asian,283,36,209,1.0,1.0,1.0
+2003-05-01,Philippines,south_east_asian,283,36,209,1.0,1.0,1.0
+2003-05-01,Singapore,south_east_asian,283,36,209,1.0,1.0,1.0
+2003-05-01,Thailand,south_east_asian,283,36,209,1.0,1.0,1.0
+2003-05-01,Viet Nam,south_east_asian,283,36,209,1.0,1.0,1.0
+2003-05-01,China,east_asian,5329,335,2210,5047.0,300.0,2002.0
+2003-05-01,"Hong Kong SAR, China",east_asian,5329,335,2210,1.0,1.0,1.0
+2003-05-01,"Macao SAR, China",east_asian,5329,335,2210,1.0,1.0,1.0
+2003-05-01,"Taiwan, China",east_asian,5329,335,2210,1.0,1.0,1.0
+2003-05-01,Republic of Korea,east_asian,5329,335,2210,1.0,1.0,1.0
+2003-05-02,France,western_europe,28,0,22,0.0,0.0,0.0
+2003-05-02,Germany,western_europe,28,0,22,1.0,1.0,1.0
+2003-05-02,Italy,western_europe,28,0,22,1.0,1.0,1.0
+2003-05-02,Spain,western_europe,28,0,22,1.0,1.0,1.0
+2003-05-02,United Kingdom,western_europe,28,0,22,1.0,1.0,1.0
+2003-05-02,Indonesia,south_east_asian,284,36,212,257.0,37.0,191.0
+2003-05-02,Malaysia,south_east_asian,284,36,212,1.0,1.0,1.0
+2003-05-02,Philippines,south_east_asian,284,36,212,1.0,1.0,1.0
+2003-05-02,Singapore,south_east_asian,284,36,212,1.0,1.0,1.0
+2003-05-02,Thailand,south_east_asian,284,36,212,1.0,1.0,1.0
+2003-05-02,Viet Nam,south_east_asian,284,36,212,1.0,1.0,1.0
+2003-05-02,China,east_asian,5512,359,2275,5229.0,324.0,2064.0
+2003-05-02,"Hong Kong SAR, China",east_asian,5512,359,2275,1.0,1.0,1.0
+2003-05-02,"Macao SAR, China",east_asian,5512,359,2275,1.0,1.0,1.0
+2003-05-02,"Taiwan, China",east_asian,5512,359,2275,1.0,1.0,1.0
+2003-05-02,Republic of Korea,east_asian,5512,359,2275,1.0,1.0,1.0
+2003-05-03,France,western_europe,28,0,22,0.0,0.0,0.0
+2003-05-03,Germany,western_europe,28,0,22,1.0,1.0,1.0
+2003-05-03,Italy,western_europe,28,0,22,1.0,1.0,1.0
+2003-05-03,Spain,western_europe,28,0,22,1.0,1.0,1.0
+2003-05-03,United Kingdom,western_europe,28,0,22,1.0,1.0,1.0
+2003-05-03,Indonesia,south_east_asian,284,36,215,257.0,37.0,194.0
+2003-05-03,Malaysia,south_east_asian,284,36,215,1.0,1.0,1.0
+2003-05-03,Philippines,south_east_asian,284,36,215,1.0,1.0,1.0
+2003-05-03,Singapore,south_east_asian,284,36,215,1.0,1.0,1.0
+2003-05-03,Thailand,south_east_asian,284,36,215,1.0,1.0,1.0
+2003-05-03,Viet Nam,south_east_asian,284,36,215,1.0,1.0,1.0
+2003-05-03,China,east_asian,5694,377,2329,5411.0,342.0,2115.0
+2003-05-03,"Hong Kong SAR, China",east_asian,5694,377,2329,1.0,1.0,1.0
+2003-05-03,"Macao SAR, China",east_asian,5694,377,2329,1.0,1.0,1.0
+2003-05-03,"Taiwan, China",east_asian,5694,377,2329,1.0,1.0,1.0
+2003-05-03,Republic of Korea,east_asian,5694,377,2329,1.0,1.0,1.0
+2003-05-05,France,western_europe,28,0,22,0.0,0.0,0.0
+2003-05-05,Germany,western_europe,28,0,22,1.0,1.0,1.0
+2003-05-05,Italy,western_europe,28,0,22,1.0,1.0,1.0
+2003-05-05,Spain,western_europe,28,0,22,1.0,1.0,1.0
+2003-05-05,United Kingdom,western_europe,28,0,22,1.0,1.0,1.0
+2003-05-05,Indonesia,south_east_asian,286,37,218,259.0,38.0,197.0
+2003-05-05,Malaysia,south_east_asian,286,37,218,1.0,1.0,1.0
+2003-05-05,Philippines,south_east_asian,286,37,218,1.0,1.0,1.0
+2003-05-05,Singapore,south_east_asian,286,37,218,1.0,1.0,1.0
+2003-05-05,Thailand,south_east_asian,286,37,218,1.0,1.0,1.0
+2003-05-05,Viet Nam,south_east_asian,286,37,218,1.0,1.0,1.0
+2003-05-05,China,east_asian,6035,401,2388,5750.0,365.0,2171.0
+2003-05-05,"Hong Kong SAR, China",east_asian,6035,401,2388,1.0,1.0,1.0
+2003-05-05,"Macao SAR, China",east_asian,6035,401,2388,1.0,1.0,1.0
+2003-05-05,"Taiwan, China",east_asian,6035,401,2388,1.0,1.0,1.0
+2003-05-05,Republic of Korea,east_asian,6035,401,2388,1.0,1.0,1.0
+2003-05-06,France,western_europe,28,0,22,0.0,0.0,0.0
+2003-05-06,Germany,western_europe,28,0,22,1.0,1.0,1.0
+2003-05-06,Italy,western_europe,28,0,22,1.0,1.0,1.0
+2003-05-06,Spain,western_europe,28,0,22,1.0,1.0,1.0
+2003-05-06,United Kingdom,western_europe,28,0,22,1.0,1.0,1.0
+2003-05-06,Indonesia,south_east_asian,286,38,218,259.0,39.0,197.0
+2003-05-06,Malaysia,south_east_asian,286,38,218,1.0,1.0,1.0
+2003-05-06,Philippines,south_east_asian,286,38,218,1.0,1.0,1.0
+2003-05-06,Singapore,south_east_asian,286,38,218,1.0,1.0,1.0
+2003-05-06,Thailand,south_east_asian,286,38,218,1.0,1.0,1.0
+2003-05-06,Viet Nam,south_east_asian,286,38,218,1.0,1.0,1.0
+2003-05-06,China,east_asian,6173,417,2443,5888.0,380.0,2226.0
+2003-05-06,"Hong Kong SAR, China",east_asian,6173,417,2443,1.0,1.0,1.0
+2003-05-06,"Macao SAR, China",east_asian,6173,417,2443,1.0,1.0,1.0
+2003-05-06,"Taiwan, China",east_asian,6173,417,2443,1.0,1.0,1.0
+2003-05-06,Republic of Korea,east_asian,6173,417,2443,1.0,1.0,1.0
+2003-05-07,France,western_europe,30,0,23,0.0,0.0,0.0
+2003-05-07,Germany,western_europe,30,0,23,1.0,1.0,1.0
+2003-05-07,Italy,western_europe,30,0,23,1.0,1.0,1.0
+2003-05-07,Spain,western_europe,30,0,23,1.0,1.0,1.0
+2003-05-07,United Kingdom,western_europe,30,0,23,1.0,1.0,1.0
+2003-05-07,Indonesia,south_east_asian,293,38,220,264.0,39.0,198.0
+2003-05-07,Malaysia,south_east_asian,293,38,220,1.0,1.0,1.0
+2003-05-07,Philippines,south_east_asian,293,38,220,1.0,1.0,1.0
+2003-05-07,Singapore,south_east_asian,293,38,220,1.0,1.0,1.0
+2003-05-07,Thailand,south_east_asian,293,38,220,1.0,1.0,1.0
+2003-05-07,Viet Nam,south_east_asian,293,38,220,1.0,1.0,1.0
+2003-05-07,China,east_asian,6341,434,2497,6049.0,397.0,2278.0
+2003-05-07,"Hong Kong SAR, China",east_asian,6341,434,2497,1.0,1.0,1.0
+2003-05-07,"Macao SAR, China",east_asian,6341,434,2497,1.0,1.0,1.0
+2003-05-07,"Taiwan, China",east_asian,6341,434,2497,1.0,1.0,1.0
+2003-05-07,Republic of Korea,east_asian,6341,434,2497,1.0,1.0,1.0
+2003-05-08,France,western_europe,30,0,24,0.0,0.0,0.0
+2003-05-08,Germany,western_europe,30,0,24,1.0,1.0,1.0
+2003-05-08,Italy,western_europe,30,0,24,1.0,1.0,1.0
+2003-05-08,Spain,western_europe,30,0,24,1.0,1.0,1.0
+2003-05-08,United Kingdom,western_europe,30,0,24,1.0,1.0,1.0
+2003-05-08,Indonesia,south_east_asian,293,38,223,264.0,39.0,200.0
+2003-05-08,Malaysia,south_east_asian,293,38,223,1.0,1.0,1.0
+2003-05-08,Philippines,south_east_asian,293,38,223,1.0,1.0,1.0
+2003-05-08,Singapore,south_east_asian,293,38,223,1.0,1.0,1.0
+2003-05-08,Thailand,south_east_asian,293,38,223,1.0,1.0,1.0
+2003-05-08,Viet Nam,south_east_asian,293,38,223,1.0,1.0,1.0
+2003-05-08,China,east_asian,6492,445,2564,6200.0,408.0,2342.0
+2003-05-08,"Hong Kong SAR, China",east_asian,6492,445,2564,1.0,1.0,1.0
+2003-05-08,"Macao SAR, China",east_asian,6492,445,2564,1.0,1.0,1.0
+2003-05-08,"Taiwan, China",east_asian,6492,445,2564,1.0,1.0,1.0
+2003-05-08,Republic of Korea,east_asian,6492,445,2564,1.0,1.0,1.0
+2003-05-09,France,western_europe,31,0,29,0.0,0.0,0.0
+2003-05-09,Germany,western_europe,31,0,29,1.0,1.0,1.0
+2003-05-09,Italy,western_europe,31,0,29,1.0,1.0,1.0
+2003-05-09,Spain,western_europe,31,0,29,1.0,1.0,1.0
+2003-05-09,United Kingdom,western_europe,31,0,29,1.0,1.0,1.0
+2003-05-09,Indonesia,south_east_asian,292,38,223,262.0,39.0,195.0
+2003-05-09,Malaysia,south_east_asian,292,38,223,1.0,1.0,1.0
+2003-05-09,Philippines,south_east_asian,292,38,223,1.0,1.0,1.0
+2003-05-09,Singapore,south_east_asian,292,38,223,1.0,1.0,1.0
+2003-05-09,Thailand,south_east_asian,292,38,223,1.0,1.0,1.0
+2003-05-09,Viet Nam,south_east_asian,292,38,223,1.0,1.0,1.0
+2003-05-09,China,east_asian,6623,453,2624,6332.0,416.0,2402.0
+2003-05-09,"Hong Kong SAR, China",east_asian,6623,453,2624,1.0,1.0,1.0
+2003-05-09,"Macao SAR, China",east_asian,6623,453,2624,1.0,1.0,1.0
+2003-05-09,"Taiwan, China",east_asian,6623,453,2624,1.0,1.0,1.0
+2003-05-09,Republic of Korea,east_asian,6623,453,2624,1.0,1.0,1.0
+2003-05-10,France,western_europe,32,0,29,0.0,0.0,0.0
+2003-05-10,Germany,western_europe,32,0,29,1.0,1.0,1.0
+2003-05-10,Italy,western_europe,32,0,29,1.0,1.0,1.0
+2003-05-10,Spain,western_europe,32,0,29,1.0,1.0,1.0
+2003-05-10,United Kingdom,western_europe,32,0,29,1.0,1.0,1.0
+2003-05-10,Indonesia,south_east_asian,294,38,225,263.0,39.0,197.0
+2003-05-10,Malaysia,south_east_asian,294,38,225,1.0,1.0,1.0
+2003-05-10,Philippines,south_east_asian,294,38,225,1.0,1.0,1.0
+2003-05-10,Singapore,south_east_asian,294,38,225,1.0,1.0,1.0
+2003-05-10,Thailand,south_east_asian,294,38,225,1.0,1.0,1.0
+2003-05-10,Viet Nam,south_east_asian,294,38,225,1.0,1.0,1.0
+2003-05-10,China,east_asian,6732,465,2682,6439.0,428.0,2458.0
+2003-05-10,"Hong Kong SAR, China",east_asian,6732,465,2682,1.0,1.0,1.0
+2003-05-10,"Macao SAR, China",east_asian,6732,465,2682,1.0,1.0,1.0
+2003-05-10,"Taiwan, China",east_asian,6732,465,2682,1.0,1.0,1.0
+2003-05-10,Republic of Korea,east_asian,6732,465,2682,1.0,1.0,1.0
+2003-05-12,France,western_europe,32,0,28,0.0,0.0,0.0
+2003-05-12,Germany,western_europe,32,0,28,1.0,1.0,1.0
+2003-05-12,Italy,western_europe,32,0,28,1.0,1.0,1.0
+2003-05-12,Spain,western_europe,32,0,28,1.0,1.0,1.0
+2003-05-12,United Kingdom,western_europe,32,0,28,1.0,1.0,1.0
+2003-05-12,Indonesia,south_east_asian,294,39,227,263.0,40.0,200.0
+2003-05-12,Malaysia,south_east_asian,294,39,227,1.0,1.0,1.0
+2003-05-12,Philippines,south_east_asian,294,39,227,1.0,1.0,1.0
+2003-05-12,Singapore,south_east_asian,294,39,227,1.0,1.0,1.0
+2003-05-12,Thailand,south_east_asian,294,39,227,1.0,1.0,1.0
+2003-05-12,Viet Nam,south_east_asian,294,39,227,1.0,1.0,1.0
+2003-05-12,China,east_asian,6883,490,2786,6590.0,452.0,2560.0
+2003-05-12,"Hong Kong SAR, China",east_asian,6883,490,2786,1.0,1.0,1.0
+2003-05-12,"Macao SAR, China",east_asian,6883,490,2786,1.0,1.0,1.0
+2003-05-12,"Taiwan, China",east_asian,6883,490,2786,1.0,1.0,1.0
+2003-05-12,Republic of Korea,east_asian,6883,490,2786,1.0,1.0,1.0
+2003-05-13,France,western_europe,30,0,27,0.0,0.0,0.0
+2003-05-13,Germany,western_europe,30,0,27,1.0,1.0,1.0
+2003-05-13,Italy,western_europe,30,0,27,1.0,1.0,1.0
+2003-05-13,Spain,western_europe,30,0,27,1.0,1.0,1.0
+2003-05-13,United Kingdom,western_europe,30,0,27,1.0,1.0,1.0
+2003-05-13,Indonesia,south_east_asian,294,39,228,265.0,40.0,202.0
+2003-05-13,Malaysia,south_east_asian,294,39,228,1.0,1.0,1.0
+2003-05-13,Philippines,south_east_asian,294,39,228,1.0,1.0,1.0
+2003-05-13,Singapore,south_east_asian,294,39,228,1.0,1.0,1.0
+2003-05-13,Thailand,south_east_asian,294,39,228,1.0,1.0,1.0
+2003-05-13,Viet Nam,south_east_asian,294,39,228,1.0,1.0,1.0
+2003-05-13,China,east_asian,6985,511,2886,6692.0,473.0,2659.0
+2003-05-13,"Hong Kong SAR, China",east_asian,6985,511,2886,1.0,1.0,1.0
+2003-05-13,"Macao SAR, China",east_asian,6985,511,2886,1.0,1.0,1.0
+2003-05-13,"Taiwan, China",east_asian,6985,511,2886,1.0,1.0,1.0
+2003-05-13,Republic of Korea,east_asian,6985,511,2886,1.0,1.0,1.0
+2003-05-14,France,western_europe,30,0,27,0.0,0.0,0.0
+2003-05-14,Germany,western_europe,30,0,27,1.0,1.0,1.0
+2003-05-14,Italy,western_europe,30,0,27,1.0,1.0,1.0
+2003-05-14,Spain,western_europe,30,0,27,1.0,1.0,1.0
+2003-05-14,United Kingdom,western_europe,30,0,27,1.0,1.0,1.0
+2003-05-14,Indonesia,south_east_asian,295,39,230,266.0,40.0,204.0
+2003-05-14,Malaysia,south_east_asian,295,39,230,1.0,1.0,1.0
+2003-05-14,Philippines,south_east_asian,295,39,230,1.0,1.0,1.0
+2003-05-14,Singapore,south_east_asian,295,39,230,1.0,1.0,1.0
+2003-05-14,Thailand,south_east_asian,295,39,230,1.0,1.0,1.0
+2003-05-14,Viet Nam,south_east_asian,295,39,230,1.0,1.0,1.0
+2003-05-14,China,east_asian,7064,524,2978,6770.0,486.0,2749.0
+2003-05-14,"Hong Kong SAR, China",east_asian,7064,524,2978,1.0,1.0,1.0
+2003-05-14,"Macao SAR, China",east_asian,7064,524,2978,1.0,1.0,1.0
+2003-05-14,"Taiwan, China",east_asian,7064,524,2978,1.0,1.0,1.0
+2003-05-14,Republic of Korea,east_asian,7064,524,2978,1.0,1.0,1.0
+2003-05-15,France,western_europe,30,0,27,0.0,0.0,0.0
+2003-05-15,Germany,western_europe,30,0,27,1.0,1.0,1.0
+2003-05-15,Italy,western_europe,30,0,27,1.0,1.0,1.0
+2003-05-15,Spain,western_europe,30,0,27,1.0,1.0,1.0
+2003-05-15,United Kingdom,western_europe,30,0,27,1.0,1.0,1.0
+2003-05-15,Indonesia,south_east_asian,297,39,231,268.0,40.0,205.0
+2003-05-15,Malaysia,south_east_asian,297,39,231,1.0,1.0,1.0
+2003-05-15,Philippines,south_east_asian,297,39,231,1.0,1.0,1.0
+2003-05-15,Singapore,south_east_asian,297,39,231,1.0,1.0,1.0
+2003-05-15,Thailand,south_east_asian,297,39,231,1.0,1.0,1.0
+2003-05-15,Viet Nam,south_east_asian,297,39,231,1.0,1.0,1.0
+2003-05-15,China,east_asian,7134,535,3057,6838.0,497.0,2827.0
+2003-05-15,"Hong Kong SAR, China",east_asian,7134,535,3057,1.0,1.0,1.0
+2003-05-15,"Macao SAR, China",east_asian,7134,535,3057,1.0,1.0,1.0
+2003-05-15,"Taiwan, China",east_asian,7134,535,3057,1.0,1.0,1.0
+2003-05-15,Republic of Korea,east_asian,7134,535,3057,1.0,1.0,1.0
+2003-05-16,France,western_europe,30,0,27,0.0,0.0,0.0
+2003-05-16,Germany,western_europe,30,0,27,1.0,1.0,1.0
+2003-05-16,Italy,western_europe,30,0,27,1.0,1.0,1.0
+2003-05-16,Spain,western_europe,30,0,27,1.0,1.0,1.0
+2003-05-16,United Kingdom,western_europe,30,0,27,1.0,1.0,1.0
+2003-05-16,Indonesia,south_east_asian,297,39,231,268.0,40.0,205.0
+2003-05-16,Malaysia,south_east_asian,297,39,231,1.0,1.0,1.0
+2003-05-16,Philippines,south_east_asian,297,39,231,1.0,1.0,1.0
+2003-05-16,Singapore,south_east_asian,297,39,231,1.0,1.0,1.0
+2003-05-16,Thailand,south_east_asian,297,39,231,1.0,1.0,1.0
+2003-05-16,Viet Nam,south_east_asian,297,39,231,1.0,1.0,1.0
+2003-05-16,China,east_asian,7175,548,3165,6879.0,510.0,2935.0
+2003-05-16,"Hong Kong SAR, China",east_asian,7175,548,3165,1.0,1.0,1.0
+2003-05-16,"Macao SAR, China",east_asian,7175,548,3165,1.0,1.0,1.0
+2003-05-16,"Taiwan, China",east_asian,7175,548,3165,1.0,1.0,1.0
+2003-05-16,Republic of Korea,east_asian,7175,548,3165,1.0,1.0,1.0
+2003-05-17,France,western_europe,30,0,29,0.0,0.0,0.0
+2003-05-17,Germany,western_europe,30,0,29,1.0,1.0,1.0
+2003-05-17,Italy,western_europe,30,0,29,1.0,1.0,1.0
+2003-05-17,Spain,western_europe,30,0,29,1.0,1.0,1.0
+2003-05-17,United Kingdom,western_europe,30,0,29,1.0,1.0,1.0
+2003-05-17,Indonesia,south_east_asian,297,39,231,268.0,40.0,203.0
+2003-05-17,Malaysia,south_east_asian,297,39,231,1.0,1.0,1.0
+2003-05-17,Philippines,south_east_asian,297,39,231,1.0,1.0,1.0
+2003-05-17,Singapore,south_east_asian,297,39,231,1.0,1.0,1.0
+2003-05-17,Thailand,south_east_asian,297,39,231,1.0,1.0,1.0
+2003-05-17,Viet Nam,south_east_asian,297,39,231,1.0,1.0,1.0
+2003-05-17,China,east_asian,7197,560,3247,6901.0,522.0,3017.0
+2003-05-17,"Hong Kong SAR, China",east_asian,7197,560,3247,1.0,1.0,1.0
+2003-05-17,"Macao SAR, China",east_asian,7197,560,3247,1.0,1.0,1.0
+2003-05-17,"Taiwan, China",east_asian,7197,560,3247,1.0,1.0,1.0
+2003-05-17,Republic of Korea,east_asian,7197,560,3247,1.0,1.0,1.0
+2003-05-19,France,western_europe,30,0,29,0.0,0.0,0.0
+2003-05-19,Germany,western_europe,30,0,29,1.0,1.0,1.0
+2003-05-19,Italy,western_europe,30,0,29,1.0,1.0,1.0
+2003-05-19,Spain,western_europe,30,0,29,1.0,1.0,1.0
+2003-05-19,United Kingdom,western_europe,30,0,29,1.0,1.0,1.0
+2003-05-19,Indonesia,south_east_asian,298,39,238,269.0,40.0,210.0
+2003-05-19,Malaysia,south_east_asian,298,39,238,1.0,1.0,1.0
+2003-05-19,Philippines,south_east_asian,298,39,238,1.0,1.0,1.0
+2003-05-19,Singapore,south_east_asian,298,39,238,1.0,1.0,1.0
+2003-05-19,Thailand,south_east_asian,298,39,238,1.0,1.0,1.0
+2003-05-19,Viet Nam,south_east_asian,298,39,238,1.0,1.0,1.0
+2003-05-19,China,east_asian,7298,580,3412,7001.0,542.0,3175.0
+2003-05-19,"Hong Kong SAR, China",east_asian,7298,580,3412,1.0,1.0,1.0
+2003-05-19,"Macao SAR, China",east_asian,7298,580,3412,1.0,1.0,1.0
+2003-05-19,"Taiwan, China",east_asian,7298,580,3412,1.0,1.0,1.0
+2003-05-19,Republic of Korea,east_asian,7298,580,3412,1.0,1.0,1.0
+2003-05-20,France,western_europe,30,0,29,0.0,0.0,0.0
+2003-05-20,Germany,western_europe,30,0,29,1.0,1.0,1.0
+2003-05-20,Italy,western_europe,30,0,29,1.0,1.0,1.0
+2003-05-20,Spain,western_europe,30,0,29,1.0,1.0,1.0
+2003-05-20,United Kingdom,western_europe,30,0,29,1.0,1.0,1.0
+2003-05-20,Indonesia,south_east_asian,298,39,239,269.0,40.0,211.0
+2003-05-20,Malaysia,south_east_asian,298,39,239,1.0,1.0,1.0
+2003-05-20,Philippines,south_east_asian,298,39,239,1.0,1.0,1.0
+2003-05-20,Singapore,south_east_asian,298,39,239,1.0,1.0,1.0
+2003-05-20,Thailand,south_east_asian,298,39,239,1.0,1.0,1.0
+2003-05-20,Viet Nam,south_east_asian,298,39,239,1.0,1.0,1.0
+2003-05-20,China,east_asian,7353,599,3548,7056.0,561.0,3310.0
+2003-05-20,"Hong Kong SAR, China",east_asian,7353,599,3548,1.0,1.0,1.0
+2003-05-20,"Macao SAR, China",east_asian,7353,599,3548,1.0,1.0,1.0
+2003-05-20,"Taiwan, China",east_asian,7353,599,3548,1.0,1.0,1.0
+2003-05-20,Republic of Korea,east_asian,7353,599,3548,1.0,1.0,1.0
+2003-05-21,France,western_europe,30,0,29,0.0,0.0,0.0
+2003-05-21,Germany,western_europe,30,0,29,1.0,1.0,1.0
+2003-05-21,Italy,western_europe,30,0,29,1.0,1.0,1.0
+2003-05-21,Spain,western_europe,30,0,29,1.0,1.0,1.0
+2003-05-21,United Kingdom,western_europe,30,0,29,1.0,1.0,1.0
+2003-05-21,Indonesia,south_east_asian,299,39,241,270.0,40.0,213.0
+2003-05-21,Malaysia,south_east_asian,299,39,241,1.0,1.0,1.0
+2003-05-21,Philippines,south_east_asian,299,39,241,1.0,1.0,1.0
+2003-05-21,Singapore,south_east_asian,299,39,241,1.0,1.0,1.0
+2003-05-21,Thailand,south_east_asian,299,39,241,1.0,1.0,1.0
+2003-05-21,Viet Nam,south_east_asian,299,39,241,1.0,1.0,1.0
+2003-05-21,China,east_asian,7390,603,3645,7092.0,565.0,3405.0
+2003-05-21,"Hong Kong SAR, China",east_asian,7390,603,3645,1.0,1.0,1.0
+2003-05-21,"Macao SAR, China",east_asian,7390,603,3645,1.0,1.0,1.0
+2003-05-21,"Taiwan, China",east_asian,7390,603,3645,1.0,1.0,1.0
+2003-05-21,Republic of Korea,east_asian,7390,603,3645,1.0,1.0,1.0
+2003-05-22,France,western_europe,30,0,29,0.0,0.0,0.0
+2003-05-22,Germany,western_europe,30,0,29,1.0,1.0,1.0
+2003-05-22,Italy,western_europe,30,0,29,1.0,1.0,1.0
+2003-05-22,Spain,western_europe,30,0,29,1.0,1.0,1.0
+2003-05-22,United Kingdom,western_europe,30,0,29,1.0,1.0,1.0
+2003-05-22,Indonesia,south_east_asian,299,40,242,270.0,41.0,214.0
+2003-05-22,Malaysia,south_east_asian,299,40,242,1.0,1.0,1.0
+2003-05-22,Philippines,south_east_asian,299,40,242,1.0,1.0,1.0
+2003-05-22,Singapore,south_east_asian,299,40,242,1.0,1.0,1.0
+2003-05-22,Thailand,south_east_asian,299,40,242,1.0,1.0,1.0
+2003-05-22,Viet Nam,south_east_asian,299,40,242,1.0,1.0,1.0
+2003-05-22,China,east_asian,7481,618,3768,7183.0,579.0,3527.0
+2003-05-22,"Hong Kong SAR, China",east_asian,7481,618,3768,1.0,1.0,1.0
+2003-05-22,"Macao SAR, China",east_asian,7481,618,3768,1.0,1.0,1.0
+2003-05-22,"Taiwan, China",east_asian,7481,618,3768,1.0,1.0,1.0
+2003-05-22,Republic of Korea,east_asian,7481,618,3768,1.0,1.0,1.0
+2003-05-23,France,western_europe,30,0,29,0.0,0.0,0.0
+2003-05-23,Germany,western_europe,30,0,29,1.0,1.0,1.0
+2003-05-23,Italy,western_europe,30,0,29,1.0,1.0,1.0
+2003-05-23,Spain,western_europe,30,0,29,1.0,1.0,1.0
+2003-05-23,United Kingdom,western_europe,30,0,29,1.0,1.0,1.0
+2003-05-23,Indonesia,south_east_asian,299,42,243,270.0,43.0,215.0
+2003-05-23,Malaysia,south_east_asian,299,42,243,1.0,1.0,1.0
+2003-05-23,Philippines,south_east_asian,299,42,243,1.0,1.0,1.0
+2003-05-23,Singapore,south_east_asian,299,42,243,1.0,1.0,1.0
+2003-05-23,Thailand,south_east_asian,299,42,243,1.0,1.0,1.0
+2003-05-23,Viet Nam,south_east_asian,299,42,243,1.0,1.0,1.0
+2003-05-23,China,east_asian,7552,623,3883,7254.0,582.0,3641.0
+2003-05-23,"Hong Kong SAR, China",east_asian,7552,623,3883,1.0,1.0,1.0
+2003-05-23,"Macao SAR, China",east_asian,7552,623,3883,1.0,1.0,1.0
+2003-05-23,"Taiwan, China",east_asian,7552,623,3883,1.0,1.0,1.0
+2003-05-23,Republic of Korea,east_asian,7552,623,3883,1.0,1.0,1.0
+2003-05-24,France,western_europe,30,0,29,0.0,0.0,0.0
+2003-05-24,Germany,western_europe,30,0,29,1.0,1.0,1.0
+2003-05-24,Italy,western_europe,30,0,29,1.0,1.0,1.0
+2003-05-24,Spain,western_europe,30,0,29,1.0,1.0,1.0
+2003-05-24,United Kingdom,western_europe,30,0,29,1.0,1.0,1.0
+2003-05-24,Indonesia,south_east_asian,299,42,243,270.0,43.0,215.0
+2003-05-24,Malaysia,south_east_asian,299,42,243,1.0,1.0,1.0
+2003-05-24,Philippines,south_east_asian,299,42,243,1.0,1.0,1.0
+2003-05-24,Singapore,south_east_asian,299,42,243,1.0,1.0,1.0
+2003-05-24,Thailand,south_east_asian,299,42,243,1.0,1.0,1.0
+2003-05-24,Viet Nam,south_east_asian,299,42,243,1.0,1.0,1.0
+2003-05-24,China,east_asian,7576,630,4025,7278.0,589.0,3783.0
+2003-05-24,"Hong Kong SAR, China",east_asian,7576,630,4025,1.0,1.0,1.0
+2003-05-24,"Macao SAR, China",east_asian,7576,630,4025,1.0,1.0,1.0
+2003-05-24,"Taiwan, China",east_asian,7576,630,4025,1.0,1.0,1.0
+2003-05-24,Republic of Korea,east_asian,7576,630,4025,1.0,1.0,1.0
+2003-05-26,France,western_europe,30,0,29,0.0,0.0,0.0
+2003-05-26,Germany,western_europe,30,0,29,1.0,1.0,1.0
+2003-05-26,Italy,western_europe,30,0,29,1.0,1.0,1.0
+2003-05-26,Spain,western_europe,30,0,29,1.0,1.0,1.0
+2003-05-26,United Kingdom,western_europe,30,0,29,1.0,1.0,1.0
+2003-05-26,Indonesia,south_east_asian,296,42,242,267.0,43.0,214.0
+2003-05-26,Malaysia,south_east_asian,296,42,242,1.0,1.0,1.0
+2003-05-26,Philippines,south_east_asian,296,42,242,1.0,1.0,1.0
+2003-05-26,Singapore,south_east_asian,296,42,242,1.0,1.0,1.0
+2003-05-26,Thailand,south_east_asian,296,42,242,1.0,1.0,1.0
+2003-05-26,Viet Nam,south_east_asian,296,42,242,1.0,1.0,1.0
+2003-05-26,China,east_asian,7632,656,4219,7337.0,615.0,3978.0
+2003-05-26,"Hong Kong SAR, China",east_asian,7632,656,4219,1.0,1.0,1.0
+2003-05-26,"Macao SAR, China",east_asian,7632,656,4219,1.0,1.0,1.0
+2003-05-26,"Taiwan, China",east_asian,7632,656,4219,1.0,1.0,1.0
+2003-05-26,Republic of Korea,east_asian,7632,656,4219,1.0,1.0,1.0
+2003-05-27,France,western_europe,30,0,29,0.0,0.0,0.0
+2003-05-27,Germany,western_europe,30,0,29,1.0,1.0,1.0
+2003-05-27,Italy,western_europe,30,0,29,1.0,1.0,1.0
+2003-05-27,Spain,western_europe,30,0,29,1.0,1.0,1.0
+2003-05-27,United Kingdom,western_europe,30,0,29,1.0,1.0,1.0
+2003-05-27,Indonesia,south_east_asian,296,42,242,267.0,43.0,214.0
+2003-05-27,Malaysia,south_east_asian,296,42,242,1.0,1.0,1.0
+2003-05-27,Philippines,south_east_asian,296,42,242,1.0,1.0,1.0
+2003-05-27,Singapore,south_east_asian,296,42,242,1.0,1.0,1.0
+2003-05-27,Thailand,south_east_asian,296,42,242,1.0,1.0,1.0
+2003-05-27,Viet Nam,south_east_asian,296,42,242,1.0,1.0,1.0
+2003-05-27,China,east_asian,7651,666,4343,7356.0,625.0,4102.0
+2003-05-27,"Hong Kong SAR, China",east_asian,7651,666,4343,1.0,1.0,1.0
+2003-05-27,"Macao SAR, China",east_asian,7651,666,4343,1.0,1.0,1.0
+2003-05-27,"Taiwan, China",east_asian,7651,666,4343,1.0,1.0,1.0
+2003-05-27,Republic of Korea,east_asian,7651,666,4343,1.0,1.0,1.0
+2003-05-28,France,western_europe,30,0,29,0.0,0.0,0.0
+2003-05-28,Germany,western_europe,30,0,29,1.0,1.0,1.0
+2003-05-28,Italy,western_europe,30,0,29,1.0,1.0,1.0
+2003-05-28,Spain,western_europe,30,0,29,1.0,1.0,1.0
+2003-05-28,United Kingdom,western_europe,30,0,29,1.0,1.0,1.0
+2003-05-28,Indonesia,south_east_asian,296,42,244,267.0,43.0,216.0
+2003-05-28,Malaysia,south_east_asian,296,42,244,1.0,1.0,1.0
+2003-05-28,Philippines,south_east_asian,296,42,244,1.0,1.0,1.0
+2003-05-28,Singapore,south_east_asian,296,42,244,1.0,1.0,1.0
+2003-05-28,Thailand,south_east_asian,296,42,244,1.0,1.0,1.0
+2003-05-28,Viet Nam,south_east_asian,296,42,244,1.0,1.0,1.0
+2003-05-28,China,east_asian,7668,676,4445,7373.0,635.0,4202.0
+2003-05-28,"Hong Kong SAR, China",east_asian,7668,676,4445,1.0,1.0,1.0
+2003-05-28,"Macao SAR, China",east_asian,7668,676,4445,1.0,1.0,1.0
+2003-05-28,"Taiwan, China",east_asian,7668,676,4445,1.0,1.0,1.0
+2003-05-28,Republic of Korea,east_asian,7668,676,4445,1.0,1.0,1.0
+2003-05-29,France,western_europe,30,0,29,0.0,0.0,0.0
+2003-05-29,Germany,western_europe,30,0,29,1.0,1.0,1.0
+2003-05-29,Italy,western_europe,30,0,29,1.0,1.0,1.0
+2003-05-29,Spain,western_europe,30,0,29,1.0,1.0,1.0
+2003-05-29,United Kingdom,western_europe,30,0,29,1.0,1.0,1.0
+2003-05-29,Indonesia,south_east_asian,296,42,244,267.0,43.0,216.0
+2003-05-29,Malaysia,south_east_asian,296,42,244,1.0,1.0,1.0
+2003-05-29,Philippines,south_east_asian,296,42,244,1.0,1.0,1.0
+2003-05-29,Singapore,south_east_asian,296,42,244,1.0,1.0,1.0
+2003-05-29,Thailand,south_east_asian,296,42,244,1.0,1.0,1.0
+2003-05-29,Viet Nam,south_east_asian,296,42,244,1.0,1.0,1.0
+2003-05-29,China,east_asian,7721,681,4547,7426.0,640.0,4304.0
+2003-05-29,"Hong Kong SAR, China",east_asian,7721,681,4547,1.0,1.0,1.0
+2003-05-29,"Macao SAR, China",east_asian,7721,681,4547,1.0,1.0,1.0
+2003-05-29,"Taiwan, China",east_asian,7721,681,4547,1.0,1.0,1.0
+2003-05-29,Republic of Korea,east_asian,7721,681,4547,1.0,1.0,1.0
+2003-05-30,France,western_europe,30,0,29,0.0,0.0,0.0
+2003-05-30,Germany,western_europe,30,0,29,1.0,1.0,1.0
+2003-05-30,Italy,western_europe,30,0,29,1.0,1.0,1.0
+2003-05-30,Spain,western_europe,30,0,29,1.0,1.0,1.0
+2003-05-30,United Kingdom,western_europe,30,0,29,1.0,1.0,1.0
+2003-05-30,Indonesia,south_east_asian,296,42,244,267.0,43.0,216.0
+2003-05-30,Malaysia,south_east_asian,296,42,244,1.0,1.0,1.0
+2003-05-30,Philippines,south_east_asian,296,42,244,1.0,1.0,1.0
+2003-05-30,Singapore,south_east_asian,296,42,244,1.0,1.0,1.0
+2003-05-30,Thailand,south_east_asian,296,42,244,1.0,1.0,1.0
+2003-05-30,Viet Nam,south_east_asian,296,42,244,1.0,1.0,1.0
+2003-05-30,China,east_asian,7735,683,4682,7440.0,642.0,4439.0
+2003-05-30,"Hong Kong SAR, China",east_asian,7735,683,4682,1.0,1.0,1.0
+2003-05-30,"Macao SAR, China",east_asian,7735,683,4682,1.0,1.0,1.0
+2003-05-30,"Taiwan, China",east_asian,7735,683,4682,1.0,1.0,1.0
+2003-05-30,Republic of Korea,east_asian,7735,683,4682,1.0,1.0,1.0
+2003-05-31,France,western_europe,31,0,29,0.0,0.0,0.0
+2003-05-31,Germany,western_europe,31,0,29,1.0,1.0,1.0
+2003-05-31,Italy,western_europe,31,0,29,1.0,1.0,1.0
+2003-05-31,Spain,western_europe,31,0,29,1.0,1.0,1.0
+2003-05-31,United Kingdom,western_europe,31,0,29,1.0,1.0,1.0
+2003-05-31,Indonesia,south_east_asian,296,42,244,266.0,43.0,216.0
+2003-05-31,Malaysia,south_east_asian,296,42,244,1.0,1.0,1.0
+2003-05-31,Philippines,south_east_asian,296,42,244,1.0,1.0,1.0
+2003-05-31,Singapore,south_east_asian,296,42,244,1.0,1.0,1.0
+2003-05-31,Thailand,south_east_asian,296,42,244,1.0,1.0,1.0
+2003-05-31,Viet Nam,south_east_asian,296,42,244,1.0,1.0,1.0
+2003-05-31,China,east_asian,7747,691,4813,7452.0,650.0,4570.0
+2003-05-31,"Hong Kong SAR, China",east_asian,7747,691,4813,1.0,1.0,1.0
+2003-05-31,"Macao SAR, China",east_asian,7747,691,4813,1.0,1.0,1.0
+2003-05-31,"Taiwan, China",east_asian,7747,691,4813,1.0,1.0,1.0
+2003-05-31,Republic of Korea,east_asian,7747,691,4813,1.0,1.0,1.0
+2003-06-02,France,western_europe,31,0,29,0.0,0.0,0.0
+2003-06-02,Germany,western_europe,31,0,29,1.0,1.0,1.0
+2003-06-02,Italy,western_europe,31,0,29,1.0,1.0,1.0
+2003-06-02,Spain,western_europe,31,0,29,1.0,1.0,1.0
+2003-06-02,United Kingdom,western_europe,31,0,29,1.0,1.0,1.0
+2003-06-02,Indonesia,south_east_asian,296,42,244,266.0,43.0,216.0
+2003-06-02,Malaysia,south_east_asian,296,42,244,1.0,1.0,1.0
+2003-06-02,Philippines,south_east_asian,296,42,244,1.0,1.0,1.0
+2003-06-02,Singapore,south_east_asian,296,42,244,1.0,1.0,1.0
+2003-06-02,Thailand,south_east_asian,296,42,244,1.0,1.0,1.0
+2003-06-02,Viet Nam,south_east_asian,296,42,244,1.0,1.0,1.0
+2003-06-02,China,east_asian,7762,697,4952,7467.0,656.0,4709.0
+2003-06-02,"Hong Kong SAR, China",east_asian,7762,697,4952,1.0,1.0,1.0
+2003-06-02,"Macao SAR, China",east_asian,7762,697,4952,1.0,1.0,1.0
+2003-06-02,"Taiwan, China",east_asian,7762,697,4952,1.0,1.0,1.0
+2003-06-02,Republic of Korea,east_asian,7762,697,4952,1.0,1.0,1.0
+2003-06-03,France,western_europe,31,0,29,0.0,0.0,0.0
+2003-06-03,Germany,western_europe,31,0,29,1.0,1.0,1.0
+2003-06-03,Italy,western_europe,31,0,29,1.0,1.0,1.0
+2003-06-03,Spain,western_europe,31,0,29,1.0,1.0,1.0
+2003-06-03,United Kingdom,western_europe,31,0,29,1.0,1.0,1.0
+2003-06-03,Indonesia,south_east_asian,296,42,244,266.0,43.0,216.0
+2003-06-03,Malaysia,south_east_asian,296,42,244,1.0,1.0,1.0
+2003-06-03,Philippines,south_east_asian,296,42,244,1.0,1.0,1.0
+2003-06-03,Singapore,south_east_asian,296,42,244,1.0,1.0,1.0
+2003-06-03,Thailand,south_east_asian,296,42,244,1.0,1.0,1.0
+2003-06-03,Viet Nam,south_east_asian,296,42,244,1.0,1.0,1.0
+2003-06-03,China,east_asian,7759,698,5024,7464.0,657.0,4781.0
+2003-06-03,"Hong Kong SAR, China",east_asian,7759,698,5024,1.0,1.0,1.0
+2003-06-03,"Macao SAR, China",east_asian,7759,698,5024,1.0,1.0,1.0
+2003-06-03,"Taiwan, China",east_asian,7759,698,5024,1.0,1.0,1.0
+2003-06-03,Republic of Korea,east_asian,7759,698,5024,1.0,1.0,1.0
+2003-06-04,France,western_europe,31,0,29,0.0,0.0,0.0
+2003-06-04,Germany,western_europe,31,0,29,1.0,1.0,1.0
+2003-06-04,Italy,western_europe,31,0,29,1.0,1.0,1.0
+2003-06-04,Spain,western_europe,31,0,29,1.0,1.0,1.0
+2003-06-04,United Kingdom,western_europe,31,0,29,1.0,1.0,1.0
+2003-06-04,Indonesia,south_east_asian,296,42,244,266.0,43.0,216.0
+2003-06-04,Malaysia,south_east_asian,296,42,244,1.0,1.0,1.0
+2003-06-04,Philippines,south_east_asian,296,42,244,1.0,1.0,1.0
+2003-06-04,Singapore,south_east_asian,296,42,244,1.0,1.0,1.0
+2003-06-04,Thailand,south_east_asian,296,42,244,1.0,1.0,1.0
+2003-06-04,Viet Nam,south_east_asian,296,42,244,1.0,1.0,1.0
+2003-06-04,China,east_asian,7759,698,5289,7464.0,657.0,5046.0
+2003-06-04,"Hong Kong SAR, China",east_asian,7759,698,5289,1.0,1.0,1.0
+2003-06-04,"Macao SAR, China",east_asian,7759,698,5289,1.0,1.0,1.0
+2003-06-04,"Taiwan, China",east_asian,7759,698,5289,1.0,1.0,1.0
+2003-06-04,Republic of Korea,east_asian,7759,698,5289,1.0,1.0,1.0
+2003-06-05,France,western_europe,31,0,29,0.0,0.0,0.0
+2003-06-05,Germany,western_europe,31,0,29,1.0,1.0,1.0
+2003-06-05,Italy,western_europe,31,0,29,1.0,1.0,1.0
+2003-06-05,Spain,western_europe,31,0,29,1.0,1.0,1.0
+2003-06-05,United Kingdom,western_europe,31,0,29,1.0,1.0,1.0
+2003-06-05,Indonesia,south_east_asian,296,42,244,266.0,43.0,216.0
+2003-06-05,Malaysia,south_east_asian,296,42,244,1.0,1.0,1.0
+2003-06-05,Philippines,south_east_asian,296,42,244,1.0,1.0,1.0
+2003-06-05,Singapore,south_east_asian,296,42,244,1.0,1.0,1.0
+2003-06-05,Thailand,south_east_asian,296,42,244,1.0,1.0,1.0
+2003-06-05,Viet Nam,south_east_asian,296,42,244,1.0,1.0,1.0
+2003-06-05,China,east_asian,7758,701,5374,7463.0,660.0,5131.0
+2003-06-05,"Hong Kong SAR, China",east_asian,7758,701,5374,1.0,1.0,1.0
+2003-06-05,"Macao SAR, China",east_asian,7758,701,5374,1.0,1.0,1.0
+2003-06-05,"Taiwan, China",east_asian,7758,701,5374,1.0,1.0,1.0
+2003-06-05,Republic of Korea,east_asian,7758,701,5374,1.0,1.0,1.0
+2003-06-06,France,western_europe,31,0,29,0.0,0.0,0.0
+2003-06-06,Germany,western_europe,31,0,29,1.0,1.0,1.0
+2003-06-06,Italy,western_europe,31,0,29,1.0,1.0,1.0
+2003-06-06,Spain,western_europe,31,0,29,1.0,1.0,1.0
+2003-06-06,United Kingdom,western_europe,31,0,29,1.0,1.0,1.0
+2003-06-06,Indonesia,south_east_asian,296,42,244,266.0,43.0,216.0
+2003-06-06,Malaysia,south_east_asian,296,42,244,1.0,1.0,1.0
+2003-06-06,Philippines,south_east_asian,296,42,244,1.0,1.0,1.0
+2003-06-06,Singapore,south_east_asian,296,42,244,1.0,1.0,1.0
+2003-06-06,Thailand,south_east_asian,296,42,244,1.0,1.0,1.0
+2003-06-06,Viet Nam,south_east_asian,296,42,244,1.0,1.0,1.0
+2003-06-06,China,east_asian,7759,705,5480,7464.0,664.0,5237.0
+2003-06-06,"Hong Kong SAR, China",east_asian,7759,705,5480,1.0,1.0,1.0
+2003-06-06,"Macao SAR, China",east_asian,7759,705,5480,1.0,1.0,1.0
+2003-06-06,"Taiwan, China",east_asian,7759,705,5480,1.0,1.0,1.0
+2003-06-06,Republic of Korea,east_asian,7759,705,5480,1.0,1.0,1.0
+2003-06-09,France,western_europe,31,0,29,0.0,0.0,0.0
+2003-06-09,Germany,western_europe,31,0,29,1.0,1.0,1.0
+2003-06-09,Italy,western_europe,31,0,29,1.0,1.0,1.0
+2003-06-09,Spain,western_europe,31,0,29,1.0,1.0,1.0
+2003-06-09,United Kingdom,western_europe,31,0,29,1.0,1.0,1.0
+2003-06-09,Indonesia,south_east_asian,297,42,247,267.0,43.0,219.0
+2003-06-09,Malaysia,south_east_asian,297,42,247,1.0,1.0,1.0
+2003-06-09,Philippines,south_east_asian,297,42,247,1.0,1.0,1.0
+2003-06-09,Singapore,south_east_asian,297,42,247,1.0,1.0,1.0
+2003-06-09,Thailand,south_east_asian,297,42,247,1.0,1.0,1.0
+2003-06-09,Viet Nam,south_east_asian,297,42,247,1.0,1.0,1.0
+2003-06-09,China,east_asian,7765,709,5812,7469.0,668.0,5566.0
+2003-06-09,"Hong Kong SAR, China",east_asian,7765,709,5812,1.0,1.0,1.0
+2003-06-09,"Macao SAR, China",east_asian,7765,709,5812,1.0,1.0,1.0
+2003-06-09,"Taiwan, China",east_asian,7765,709,5812,1.0,1.0,1.0
+2003-06-09,Republic of Korea,east_asian,7765,709,5812,1.0,1.0,1.0
+2003-06-10,France,western_europe,31,0,29,0.0,0.0,0.0
+2003-06-10,Germany,western_europe,31,0,29,1.0,1.0,1.0
+2003-06-10,Italy,western_europe,31,0,29,1.0,1.0,1.0
+2003-06-10,Spain,western_europe,31,0,29,1.0,1.0,1.0
+2003-06-10,United Kingdom,western_europe,31,0,29,1.0,1.0,1.0
+2003-06-10,Indonesia,south_east_asian,297,42,247,267.0,43.0,219.0
+2003-06-10,Malaysia,south_east_asian,297,42,247,1.0,1.0,1.0
+2003-06-10,Philippines,south_east_asian,297,42,247,1.0,1.0,1.0
+2003-06-10,Singapore,south_east_asian,297,42,247,1.0,1.0,1.0
+2003-06-10,Thailand,south_east_asian,297,42,247,1.0,1.0,1.0
+2003-06-10,Viet Nam,south_east_asian,297,42,247,1.0,1.0,1.0
+2003-06-10,China,east_asian,7772,714,5985,7476.0,673.0,5739.0
+2003-06-10,"Hong Kong SAR, China",east_asian,7772,714,5985,1.0,1.0,1.0
+2003-06-10,"Macao SAR, China",east_asian,7772,714,5985,1.0,1.0,1.0
+2003-06-10,"Taiwan, China",east_asian,7772,714,5985,1.0,1.0,1.0
+2003-06-10,Republic of Korea,east_asian,7772,714,5985,1.0,1.0,1.0
+2003-06-11,France,western_europe,31,0,29,0.0,0.0,0.0
+2003-06-11,Germany,western_europe,31,0,29,1.0,1.0,1.0
+2003-06-11,Italy,western_europe,31,0,29,1.0,1.0,1.0
+2003-06-11,Spain,western_europe,31,0,29,1.0,1.0,1.0
+2003-06-11,United Kingdom,western_europe,31,0,29,1.0,1.0,1.0
+2003-06-11,Indonesia,south_east_asian,297,42,247,267.0,43.0,219.0
+2003-06-11,Malaysia,south_east_asian,297,42,247,1.0,1.0,1.0
+2003-06-11,Philippines,south_east_asian,297,42,247,1.0,1.0,1.0
+2003-06-11,Singapore,south_east_asian,297,42,247,1.0,1.0,1.0
+2003-06-11,Thailand,south_east_asian,297,42,247,1.0,1.0,1.0
+2003-06-11,Viet Nam,south_east_asian,297,42,247,1.0,1.0,1.0
+2003-06-11,China,east_asian,7774,714,6106,7478.0,673.0,5860.0
+2003-06-11,"Hong Kong SAR, China",east_asian,7774,714,6106,1.0,1.0,1.0
+2003-06-11,"Macao SAR, China",east_asian,7774,714,6106,1.0,1.0,1.0
+2003-06-11,"Taiwan, China",east_asian,7774,714,6106,1.0,1.0,1.0
+2003-06-11,Republic of Korea,east_asian,7774,714,6106,1.0,1.0,1.0
+2003-06-12,France,western_europe,31,0,29,0.0,0.0,0.0
+2003-06-12,Germany,western_europe,31,0,29,1.0,1.0,1.0
+2003-06-12,Italy,western_europe,31,0,29,1.0,1.0,1.0
+2003-06-12,Spain,western_europe,31,0,29,1.0,1.0,1.0
+2003-06-12,United Kingdom,western_europe,31,0,29,1.0,1.0,1.0
+2003-06-12,Indonesia,south_east_asian,299,42,250,269.0,43.0,222.0
+2003-06-12,Malaysia,south_east_asian,299,42,250,1.0,1.0,1.0
+2003-06-12,Philippines,south_east_asian,299,42,250,1.0,1.0,1.0
+2003-06-12,Singapore,south_east_asian,299,42,250,1.0,1.0,1.0
+2003-06-12,Thailand,south_east_asian,299,42,250,1.0,1.0,1.0
+2003-06-12,Viet Nam,south_east_asian,299,42,250,1.0,1.0,1.0
+2003-06-12,China,east_asian,7775,715,6185,7477.0,674.0,5936.0
+2003-06-12,"Hong Kong SAR, China",east_asian,7775,715,6185,1.0,1.0,1.0
+2003-06-12,"Macao SAR, China",east_asian,7775,715,6185,1.0,1.0,1.0
+2003-06-12,"Taiwan, China",east_asian,7775,715,6185,1.0,1.0,1.0
+2003-06-12,Republic of Korea,east_asian,7775,715,6185,1.0,1.0,1.0
+2003-06-13,France,western_europe,31,0,29,0.0,0.0,0.0
+2003-06-13,Germany,western_europe,31,0,29,1.0,1.0,1.0
+2003-06-13,Italy,western_europe,31,0,29,1.0,1.0,1.0
+2003-06-13,Spain,western_europe,31,0,29,1.0,1.0,1.0
+2003-06-13,United Kingdom,western_europe,31,0,29,1.0,1.0,1.0
+2003-06-13,Indonesia,south_east_asian,299,42,250,269.0,43.0,222.0
+2003-06-13,Malaysia,south_east_asian,299,42,250,1.0,1.0,1.0
+2003-06-13,Philippines,south_east_asian,299,42,250,1.0,1.0,1.0
+2003-06-13,Singapore,south_east_asian,299,42,250,1.0,1.0,1.0
+2003-06-13,Thailand,south_east_asian,299,42,250,1.0,1.0,1.0
+2003-06-13,Viet Nam,south_east_asian,299,42,250,1.0,1.0,1.0
+2003-06-13,China,east_asian,7779,717,6299,7481.0,676.0,6050.0
+2003-06-13,"Hong Kong SAR, China",east_asian,7779,717,6299,1.0,1.0,1.0
+2003-06-13,"Macao SAR, China",east_asian,7779,717,6299,1.0,1.0,1.0
+2003-06-13,"Taiwan, China",east_asian,7779,717,6299,1.0,1.0,1.0
+2003-06-13,Republic of Korea,east_asian,7779,717,6299,1.0,1.0,1.0
+2003-06-16,France,western_europe,31,0,29,0.0,0.0,0.0
+2003-06-16,Germany,western_europe,31,0,29,1.0,1.0,1.0
+2003-06-16,Italy,western_europe,31,0,29,1.0,1.0,1.0
+2003-06-16,Spain,western_europe,31,0,29,1.0,1.0,1.0
+2003-06-16,United Kingdom,western_europe,31,0,29,1.0,1.0,1.0
+2003-06-16,Indonesia,south_east_asian,299,42,250,269.0,43.0,222.0
+2003-06-16,Malaysia,south_east_asian,299,42,250,1.0,1.0,1.0
+2003-06-16,Philippines,south_east_asian,299,42,250,1.0,1.0,1.0
+2003-06-16,Singapore,south_east_asian,299,42,250,1.0,1.0,1.0
+2003-06-16,Thailand,south_east_asian,299,42,250,1.0,1.0,1.0
+2003-06-16,Viet Nam,south_east_asian,299,42,250,1.0,1.0,1.0
+2003-06-16,China,east_asian,7783,724,6489,7485.0,683.0,6240.0
+2003-06-16,"Hong Kong SAR, China",east_asian,7783,724,6489,1.0,1.0,1.0
+2003-06-16,"Macao SAR, China",east_asian,7783,724,6489,1.0,1.0,1.0
+2003-06-16,"Taiwan, China",east_asian,7783,724,6489,1.0,1.0,1.0
+2003-06-16,Republic of Korea,east_asian,7783,724,6489,1.0,1.0,1.0
+2003-06-17,France,western_europe,31,0,29,0.0,0.0,0.0
+2003-06-17,Germany,western_europe,31,0,29,1.0,1.0,1.0
+2003-06-17,Italy,western_europe,31,0,29,1.0,1.0,1.0
+2003-06-17,Spain,western_europe,31,0,29,1.0,1.0,1.0
+2003-06-17,United Kingdom,western_europe,31,0,29,1.0,1.0,1.0
+2003-06-17,Indonesia,south_east_asian,299,42,250,269.0,43.0,222.0
+2003-06-17,Malaysia,south_east_asian,299,42,250,1.0,1.0,1.0
+2003-06-17,Philippines,south_east_asian,299,42,250,1.0,1.0,1.0
+2003-06-17,Singapore,south_east_asian,299,42,250,1.0,1.0,1.0
+2003-06-17,Thailand,south_east_asian,299,42,250,1.0,1.0,1.0
+2003-06-17,Viet Nam,south_east_asian,299,42,250,1.0,1.0,1.0
+2003-06-17,China,east_asian,7782,724,6576,7484.0,683.0,6327.0
+2003-06-17,"Hong Kong SAR, China",east_asian,7782,724,6576,1.0,1.0,1.0
+2003-06-17,"Macao SAR, China",east_asian,7782,724,6576,1.0,1.0,1.0
+2003-06-17,"Taiwan, China",east_asian,7782,724,6576,1.0,1.0,1.0
+2003-06-17,Republic of Korea,east_asian,7782,724,6576,1.0,1.0,1.0
+2003-06-18,France,western_europe,31,0,29,0.0,0.0,0.0
+2003-06-18,Germany,western_europe,31,0,29,1.0,1.0,1.0
+2003-06-18,Italy,western_europe,31,0,29,1.0,1.0,1.0
+2003-06-18,Spain,western_europe,31,0,29,1.0,1.0,1.0
+2003-06-18,United Kingdom,western_europe,31,0,29,1.0,1.0,1.0
+2003-06-18,Indonesia,south_east_asian,299,42,250,269.0,43.0,222.0
+2003-06-18,Malaysia,south_east_asian,299,42,250,1.0,1.0,1.0
+2003-06-18,Philippines,south_east_asian,299,42,250,1.0,1.0,1.0
+2003-06-18,Singapore,south_east_asian,299,42,250,1.0,1.0,1.0
+2003-06-18,Thailand,south_east_asian,299,42,250,1.0,1.0,1.0
+2003-06-18,Viet Nam,south_east_asian,299,42,250,1.0,1.0,1.0
+2003-06-18,China,east_asian,7782,725,6628,7484.0,684.0,6379.0
+2003-06-18,"Hong Kong SAR, China",east_asian,7782,725,6628,1.0,1.0,1.0
+2003-06-18,"Macao SAR, China",east_asian,7782,725,6628,1.0,1.0,1.0
+2003-06-18,"Taiwan, China",east_asian,7782,725,6628,1.0,1.0,1.0
+2003-06-18,Republic of Korea,east_asian,7782,725,6628,1.0,1.0,1.0
+2003-06-19,France,western_europe,31,0,29,0.0,0.0,0.0
+2003-06-19,Germany,western_europe,31,0,29,1.0,1.0,1.0
+2003-06-19,Italy,western_europe,31,0,29,1.0,1.0,1.0
+2003-06-19,Spain,western_europe,31,0,29,1.0,1.0,1.0
+2003-06-19,United Kingdom,western_europe,31,0,29,1.0,1.0,1.0
+2003-06-19,Indonesia,south_east_asian,299,42,251,269.0,43.0,223.0
+2003-06-19,Malaysia,south_east_asian,299,42,251,1.0,1.0,1.0
+2003-06-19,Philippines,south_east_asian,299,42,251,1.0,1.0,1.0
+2003-06-19,Singapore,south_east_asian,299,42,251,1.0,1.0,1.0
+2003-06-19,Thailand,south_east_asian,299,42,251,1.0,1.0,1.0
+2003-06-19,Viet Nam,south_east_asian,299,42,251,1.0,1.0,1.0
+2003-06-19,China,east_asian,7780,727,6658,7482.0,686.0,6408.0
+2003-06-19,"Hong Kong SAR, China",east_asian,7780,727,6658,1.0,1.0,1.0
+2003-06-19,"Macao SAR, China",east_asian,7780,727,6658,1.0,1.0,1.0
+2003-06-19,"Taiwan, China",east_asian,7780,727,6658,1.0,1.0,1.0
+2003-06-19,Republic of Korea,east_asian,7780,727,6658,1.0,1.0,1.0
+2003-06-20,France,western_europe,31,0,29,0.0,0.0,0.0
+2003-06-20,Germany,western_europe,31,0,29,1.0,1.0,1.0
+2003-06-20,Italy,western_europe,31,0,29,1.0,1.0,1.0
+2003-06-20,Spain,western_europe,31,0,29,1.0,1.0,1.0
+2003-06-20,United Kingdom,western_europe,31,0,29,1.0,1.0,1.0
+2003-06-20,Indonesia,south_east_asian,299,42,251,269.0,43.0,223.0
+2003-06-20,Malaysia,south_east_asian,299,42,251,1.0,1.0,1.0
+2003-06-20,Philippines,south_east_asian,299,42,251,1.0,1.0,1.0
+2003-06-20,Singapore,south_east_asian,299,42,251,1.0,1.0,1.0
+2003-06-20,Thailand,south_east_asian,299,42,251,1.0,1.0,1.0
+2003-06-20,Viet Nam,south_east_asian,299,42,251,1.0,1.0,1.0
+2003-06-20,China,east_asian,7780,727,6693,7482.0,686.0,6443.0
+2003-06-20,"Hong Kong SAR, China",east_asian,7780,727,6693,1.0,1.0,1.0
+2003-06-20,"Macao SAR, China",east_asian,7780,727,6693,1.0,1.0,1.0
+2003-06-20,"Taiwan, China",east_asian,7780,727,6693,1.0,1.0,1.0
+2003-06-20,Republic of Korea,east_asian,7780,727,6693,1.0,1.0,1.0
+2003-06-23,France,western_europe,31,0,29,0.0,0.0,0.0
+2003-06-23,Germany,western_europe,31,0,29,1.0,1.0,1.0
+2003-06-23,Italy,western_europe,31,0,29,1.0,1.0,1.0
+2003-06-23,Spain,western_europe,31,0,29,1.0,1.0,1.0
+2003-06-23,United Kingdom,western_europe,31,0,29,1.0,1.0,1.0
+2003-06-23,Indonesia,south_east_asian,299,42,252,269.0,43.0,224.0
+2003-06-23,Malaysia,south_east_asian,299,42,252,1.0,1.0,1.0
+2003-06-23,Philippines,south_east_asian,299,42,252,1.0,1.0,1.0
+2003-06-23,Singapore,south_east_asian,299,42,252,1.0,1.0,1.0
+2003-06-23,Thailand,south_east_asian,299,42,252,1.0,1.0,1.0
+2003-06-23,Viet Nam,south_east_asian,299,42,252,1.0,1.0,1.0
+2003-06-23,China,east_asian,7777,727,6796,7479.0,686.0,6545.0
+2003-06-23,"Hong Kong SAR, China",east_asian,7777,727,6796,1.0,1.0,1.0
+2003-06-23,"Macao SAR, China",east_asian,7777,727,6796,1.0,1.0,1.0
+2003-06-23,"Taiwan, China",east_asian,7777,727,6796,1.0,1.0,1.0
+2003-06-23,Republic of Korea,east_asian,7777,727,6796,1.0,1.0,1.0
+2003-06-24,France,western_europe,31,0,29,0.0,0.0,0.0
+2003-06-24,Germany,western_europe,31,0,29,1.0,1.0,1.0
+2003-06-24,Italy,western_europe,31,0,29,1.0,1.0,1.0
+2003-06-24,Spain,western_europe,31,0,29,1.0,1.0,1.0
+2003-06-24,United Kingdom,western_europe,31,0,29,1.0,1.0,1.0
+2003-06-24,Indonesia,south_east_asian,299,42,252,269.0,43.0,224.0
+2003-06-24,Malaysia,south_east_asian,299,42,252,1.0,1.0,1.0
+2003-06-24,Philippines,south_east_asian,299,42,252,1.0,1.0,1.0
+2003-06-24,Singapore,south_east_asian,299,42,252,1.0,1.0,1.0
+2003-06-24,Thailand,south_east_asian,299,42,252,1.0,1.0,1.0
+2003-06-24,Viet Nam,south_east_asian,299,42,252,1.0,1.0,1.0
+2003-06-24,China,east_asian,7772,727,6814,7474.0,686.0,6563.0
+2003-06-24,"Hong Kong SAR, China",east_asian,7772,727,6814,1.0,1.0,1.0
+2003-06-24,"Macao SAR, China",east_asian,7772,727,6814,1.0,1.0,1.0
+2003-06-24,"Taiwan, China",east_asian,7772,727,6814,1.0,1.0,1.0
+2003-06-24,Republic of Korea,east_asian,7772,727,6814,1.0,1.0,1.0
+2003-06-25,France,western_europe,31,0,29,0.0,0.0,0.0
+2003-06-25,Germany,western_europe,31,0,29,1.0,1.0,1.0
+2003-06-25,Italy,western_europe,31,0,29,1.0,1.0,1.0
+2003-06-25,Spain,western_europe,31,0,29,1.0,1.0,1.0
+2003-06-25,United Kingdom,western_europe,31,0,29,1.0,1.0,1.0
+2003-06-25,Indonesia,south_east_asian,299,42,252,269.0,43.0,224.0
+2003-06-25,Malaysia,south_east_asian,299,42,252,1.0,1.0,1.0
+2003-06-25,Philippines,south_east_asian,299,42,252,1.0,1.0,1.0
+2003-06-25,Singapore,south_east_asian,299,42,252,1.0,1.0,1.0
+2003-06-25,Thailand,south_east_asian,299,42,252,1.0,1.0,1.0
+2003-06-25,Viet Nam,south_east_asian,299,42,252,1.0,1.0,1.0
+2003-06-25,China,east_asian,7772,728,6831,7474.0,687.0,6580.0
+2003-06-25,"Hong Kong SAR, China",east_asian,7772,728,6831,1.0,1.0,1.0
+2003-06-25,"Macao SAR, China",east_asian,7772,728,6831,1.0,1.0,1.0
+2003-06-25,"Taiwan, China",east_asian,7772,728,6831,1.0,1.0,1.0
+2003-06-25,Republic of Korea,east_asian,7772,728,6831,1.0,1.0,1.0
+2003-06-26,France,western_europe,31,0,29,0.0,0.0,0.0
+2003-06-26,Germany,western_europe,31,0,29,1.0,1.0,1.0
+2003-06-26,Italy,western_europe,31,0,29,1.0,1.0,1.0
+2003-06-26,Spain,western_europe,31,0,29,1.0,1.0,1.0
+2003-06-26,United Kingdom,western_europe,31,0,29,1.0,1.0,1.0
+2003-06-26,Indonesia,south_east_asian,299,43,252,269.0,44.0,224.0
+2003-06-26,Malaysia,south_east_asian,299,43,252,1.0,1.0,1.0
+2003-06-26,Philippines,south_east_asian,299,43,252,1.0,1.0,1.0
+2003-06-26,Singapore,south_east_asian,299,43,252,1.0,1.0,1.0
+2003-06-26,Thailand,south_east_asian,299,43,252,1.0,1.0,1.0
+2003-06-26,Viet Nam,south_east_asian,299,43,252,1.0,1.0,1.0
+2003-06-26,China,east_asian,7768,728,6835,7470.0,686.0,6584.0
+2003-06-26,"Hong Kong SAR, China",east_asian,7768,728,6835,1.0,1.0,1.0
+2003-06-26,"Macao SAR, China",east_asian,7768,728,6835,1.0,1.0,1.0
+2003-06-26,"Taiwan, China",east_asian,7768,728,6835,1.0,1.0,1.0
+2003-06-26,Republic of Korea,east_asian,7768,728,6835,1.0,1.0,1.0
+2003-06-27,France,western_europe,27,0,25,0.0,0.0,0.0
+2003-06-27,Germany,western_europe,27,0,25,1.0,1.0,1.0
+2003-06-27,Italy,western_europe,27,0,25,1.0,1.0,1.0
+2003-06-27,Spain,western_europe,27,0,25,1.0,1.0,1.0
+2003-06-27,United Kingdom,western_europe,27,0,25,1.0,1.0,1.0
+2003-06-27,Indonesia,south_east_asian,299,43,253,273.0,44.0,229.0
+2003-06-27,Malaysia,south_east_asian,299,43,253,1.0,1.0,1.0
+2003-06-27,Philippines,south_east_asian,299,43,253,1.0,1.0,1.0
+2003-06-27,Singapore,south_east_asian,299,43,253,1.0,1.0,1.0
+2003-06-27,Thailand,south_east_asian,299,43,253,1.0,1.0,1.0
+2003-06-27,Viet Nam,south_east_asian,299,43,253,1.0,1.0,1.0
+2003-06-27,China,east_asian,7767,729,6839,7469.0,687.0,6587.0
+2003-06-27,"Hong Kong SAR, China",east_asian,7767,729,6839,1.0,1.0,1.0
+2003-06-27,"Macao SAR, China",east_asian,7767,729,6839,1.0,1.0,1.0
+2003-06-27,"Taiwan, China",east_asian,7767,729,6839,1.0,1.0,1.0
+2003-06-27,Republic of Korea,east_asian,7767,729,6839,1.0,1.0,1.0
+2003-06-30,France,western_europe,27,0,25,0.0,0.0,0.0
+2003-06-30,Germany,western_europe,27,0,25,1.0,1.0,1.0
+2003-06-30,Italy,western_europe,27,0,25,1.0,1.0,1.0
+2003-06-30,Spain,western_europe,27,0,25,1.0,1.0,1.0
+2003-06-30,United Kingdom,western_europe,27,0,25,1.0,1.0,1.0
+2003-06-30,Indonesia,south_east_asian,299,43,253,273.0,44.0,229.0
+2003-06-30,Malaysia,south_east_asian,299,43,253,1.0,1.0,1.0
+2003-06-30,Philippines,south_east_asian,299,43,253,1.0,1.0,1.0
+2003-06-30,Singapore,south_east_asian,299,43,253,1.0,1.0,1.0
+2003-06-30,Thailand,south_east_asian,299,43,253,1.0,1.0,1.0
+2003-06-30,Viet Nam,south_east_asian,299,43,253,1.0,1.0,1.0
+2003-06-30,China,east_asian,7764,730,6855,7466.0,688.0,6603.0
+2003-06-30,"Hong Kong SAR, China",east_asian,7764,730,6855,1.0,1.0,1.0
+2003-06-30,"Macao SAR, China",east_asian,7764,730,6855,1.0,1.0,1.0
+2003-06-30,"Taiwan, China",east_asian,7764,730,6855,1.0,1.0,1.0
+2003-06-30,Republic of Korea,east_asian,7764,730,6855,1.0,1.0,1.0
+2003-07-01,France,western_europe,27,0,25,0.0,0.0,0.0
+2003-07-01,Germany,western_europe,27,0,25,1.0,1.0,1.0
+2003-07-01,Italy,western_europe,27,0,25,1.0,1.0,1.0
+2003-07-01,Spain,western_europe,27,0,25,1.0,1.0,1.0
+2003-07-01,United Kingdom,western_europe,27,0,25,1.0,1.0,1.0
+2003-07-01,Indonesia,south_east_asian,299,43,253,273.0,44.0,229.0
+2003-07-01,Malaysia,south_east_asian,299,43,253,1.0,1.0,1.0
+2003-07-01,Philippines,south_east_asian,299,43,253,1.0,1.0,1.0
+2003-07-01,Singapore,south_east_asian,299,43,253,1.0,1.0,1.0
+2003-07-01,Thailand,south_east_asian,299,43,253,1.0,1.0,1.0
+2003-07-01,Viet Nam,south_east_asian,299,43,253,1.0,1.0,1.0
+2003-07-01,China,east_asian,7764,730,6861,7466.0,688.0,6609.0
+2003-07-01,"Hong Kong SAR, China",east_asian,7764,730,6861,1.0,1.0,1.0
+2003-07-01,"Macao SAR, China",east_asian,7764,730,6861,1.0,1.0,1.0
+2003-07-01,"Taiwan, China",east_asian,7764,730,6861,1.0,1.0,1.0
+2003-07-01,Republic of Korea,east_asian,7764,730,6861,1.0,1.0,1.0
+2003-07-02,France,western_europe,26,0,24,0.0,0.0,0.0
+2003-07-02,Germany,western_europe,26,0,24,1.0,1.0,1.0
+2003-07-02,Italy,western_europe,26,0,24,1.0,1.0,1.0
+2003-07-02,Spain,western_europe,26,0,24,1.0,1.0,1.0
+2003-07-02,United Kingdom,western_europe,26,0,24,1.0,1.0,1.0
+2003-07-02,Indonesia,south_east_asian,299,43,253,274.0,44.0,230.0
+2003-07-02,Malaysia,south_east_asian,299,43,253,1.0,1.0,1.0
+2003-07-02,Philippines,south_east_asian,299,43,253,1.0,1.0,1.0
+2003-07-02,Singapore,south_east_asian,299,43,253,1.0,1.0,1.0
+2003-07-02,Thailand,south_east_asian,299,43,253,1.0,1.0,1.0
+2003-07-02,Viet Nam,south_east_asian,299,43,253,1.0,1.0,1.0
+2003-07-02,China,east_asian,7762,730,6864,7464.0,688.0,6612.0
+2003-07-02,"Hong Kong SAR, China",east_asian,7762,730,6864,1.0,1.0,1.0
+2003-07-02,"Macao SAR, China",east_asian,7762,730,6864,1.0,1.0,1.0
+2003-07-02,"Taiwan, China",east_asian,7762,730,6864,1.0,1.0,1.0
+2003-07-02,Republic of Korea,east_asian,7762,730,6864,1.0,1.0,1.0
+2003-07-03,France,western_europe,26,0,24,0.0,0.0,0.0
+2003-07-03,Germany,western_europe,26,0,24,1.0,1.0,1.0
+2003-07-03,Italy,western_europe,26,0,24,1.0,1.0,1.0
+2003-07-03,Spain,western_europe,26,0,24,1.0,1.0,1.0
+2003-07-03,United Kingdom,western_europe,26,0,24,1.0,1.0,1.0
+2003-07-03,Indonesia,south_east_asian,299,43,253,274.0,44.0,230.0
+2003-07-03,Malaysia,south_east_asian,299,43,253,1.0,1.0,1.0
+2003-07-03,Philippines,south_east_asian,299,43,253,1.0,1.0,1.0
+2003-07-03,Singapore,south_east_asian,299,43,253,1.0,1.0,1.0
+2003-07-03,Thailand,south_east_asian,299,43,253,1.0,1.0,1.0
+2003-07-03,Viet Nam,south_east_asian,299,43,253,1.0,1.0,1.0
+2003-07-03,China,east_asian,7760,730,6864,7462.0,688.0,6612.0
+2003-07-03,"Hong Kong SAR, China",east_asian,7760,730,6864,1.0,1.0,1.0
+2003-07-03,"Macao SAR, China",east_asian,7760,730,6864,1.0,1.0,1.0
+2003-07-03,"Taiwan, China",east_asian,7760,730,6864,1.0,1.0,1.0
+2003-07-03,Republic of Korea,east_asian,7760,730,6864,1.0,1.0,1.0
+2003-07-04,France,western_europe,26,0,24,0.0,0.0,0.0
+2003-07-04,Germany,western_europe,26,0,24,1.0,1.0,1.0
+2003-07-04,Italy,western_europe,26,0,24,1.0,1.0,1.0
+2003-07-04,Spain,western_europe,26,0,24,1.0,1.0,1.0
+2003-07-04,United Kingdom,western_europe,26,0,24,1.0,1.0,1.0
+2003-07-04,Indonesia,south_east_asian,299,43,253,274.0,44.0,230.0
+2003-07-04,Malaysia,south_east_asian,299,43,253,1.0,1.0,1.0
+2003-07-04,Philippines,south_east_asian,299,43,253,1.0,1.0,1.0
+2003-07-04,Singapore,south_east_asian,299,43,253,1.0,1.0,1.0
+2003-07-04,Thailand,south_east_asian,299,43,253,1.0,1.0,1.0
+2003-07-04,Viet Nam,south_east_asian,299,43,253,1.0,1.0,1.0
+2003-07-04,China,east_asian,7760,730,6868,7462.0,688.0,6616.0
+2003-07-04,"Hong Kong SAR, China",east_asian,7760,730,6868,1.0,1.0,1.0
+2003-07-04,"Macao SAR, China",east_asian,7760,730,6868,1.0,1.0,1.0
+2003-07-04,"Taiwan, China",east_asian,7760,730,6868,1.0,1.0,1.0
+2003-07-04,Republic of Korea,east_asian,7760,730,6868,1.0,1.0,1.0
+2003-07-07,France,western_europe,26,0,24,0.0,0.0,0.0
+2003-07-07,Germany,western_europe,26,0,24,1.0,1.0,1.0
+2003-07-07,Italy,western_europe,26,0,24,1.0,1.0,1.0
+2003-07-07,Spain,western_europe,26,0,24,1.0,1.0,1.0
+2003-07-07,United Kingdom,western_europe,26,0,24,1.0,1.0,1.0
+2003-07-07,Indonesia,south_east_asian,299,43,253,274.0,44.0,230.0
+2003-07-07,Malaysia,south_east_asian,299,43,253,1.0,1.0,1.0
+2003-07-07,Philippines,south_east_asian,299,43,253,1.0,1.0,1.0
+2003-07-07,Singapore,south_east_asian,299,43,253,1.0,1.0,1.0
+2003-07-07,Thailand,south_east_asian,299,43,253,1.0,1.0,1.0
+2003-07-07,Viet Nam,south_east_asian,299,43,253,1.0,1.0,1.0
+2003-07-07,China,east_asian,7760,730,6868,7462.0,688.0,6616.0
+2003-07-07,"Hong Kong SAR, China",east_asian,7760,730,6868,1.0,1.0,1.0
+2003-07-07,"Macao SAR, China",east_asian,7760,730,6868,1.0,1.0,1.0
+2003-07-07,"Taiwan, China",east_asian,7760,730,6868,1.0,1.0,1.0
+2003-07-07,Republic of Korea,east_asian,7760,730,6868,1.0,1.0,1.0
+2003-07-08,France,western_europe,26,0,24,0.0,0.0,0.0
+2003-07-08,Germany,western_europe,26,0,24,1.0,1.0,1.0
+2003-07-08,Italy,western_europe,26,0,24,1.0,1.0,1.0
+2003-07-08,Spain,western_europe,26,0,24,1.0,1.0,1.0
+2003-07-08,United Kingdom,western_europe,26,0,24,1.0,1.0,1.0
+2003-07-08,Indonesia,south_east_asian,299,43,253,274.0,44.0,230.0
+2003-07-08,Malaysia,south_east_asian,299,43,253,1.0,1.0,1.0
+2003-07-08,Philippines,south_east_asian,299,43,253,1.0,1.0,1.0
+2003-07-08,Singapore,south_east_asian,299,43,253,1.0,1.0,1.0
+2003-07-08,Thailand,south_east_asian,299,43,253,1.0,1.0,1.0
+2003-07-08,Viet Nam,south_east_asian,299,43,253,1.0,1.0,1.0
+2003-07-08,China,east_asian,7757,730,6870,7459.0,688.0,6618.0
+2003-07-08,"Hong Kong SAR, China",east_asian,7757,730,6870,1.0,1.0,1.0
+2003-07-08,"Macao SAR, China",east_asian,7757,730,6870,1.0,1.0,1.0
+2003-07-08,"Taiwan, China",east_asian,7757,730,6870,1.0,1.0,1.0
+2003-07-08,Republic of Korea,east_asian,7757,730,6870,1.0,1.0,1.0
+2003-07-09,France,western_europe,26,0,24,0.0,0.0,0.0
+2003-07-09,Germany,western_europe,26,0,24,1.0,1.0,1.0
+2003-07-09,Italy,western_europe,26,0,24,1.0,1.0,1.0
+2003-07-09,Spain,western_europe,26,0,24,1.0,1.0,1.0
+2003-07-09,United Kingdom,western_europe,26,0,24,1.0,1.0,1.0
+2003-07-09,Indonesia,south_east_asian,299,43,253,274.0,44.0,230.0
+2003-07-09,Malaysia,south_east_asian,299,43,253,1.0,1.0,1.0
+2003-07-09,Philippines,south_east_asian,299,43,253,1.0,1.0,1.0
+2003-07-09,Singapore,south_east_asian,299,43,253,1.0,1.0,1.0
+2003-07-09,Thailand,south_east_asian,299,43,253,1.0,1.0,1.0
+2003-07-09,Viet Nam,south_east_asian,299,43,253,1.0,1.0,1.0
+2003-07-09,China,east_asian,7757,730,6878,7459.0,688.0,6626.0
+2003-07-09,"Hong Kong SAR, China",east_asian,7757,730,6878,1.0,1.0,1.0
+2003-07-09,"Macao SAR, China",east_asian,7757,730,6878,1.0,1.0,1.0
+2003-07-09,"Taiwan, China",east_asian,7757,730,6878,1.0,1.0,1.0
+2003-07-09,Republic of Korea,east_asian,7757,730,6878,1.0,1.0,1.0
+2003-07-10,France,western_europe,26,0,24,0.0,0.0,0.0
+2003-07-10,Germany,western_europe,26,0,24,1.0,1.0,1.0
+2003-07-10,Italy,western_europe,26,0,24,1.0,1.0,1.0
+2003-07-10,Spain,western_europe,26,0,24,1.0,1.0,1.0
+2003-07-10,United Kingdom,western_europe,26,0,24,1.0,1.0,1.0
+2003-07-10,Indonesia,south_east_asian,299,43,254,274.0,44.0,231.0
+2003-07-10,Malaysia,south_east_asian,299,43,254,1.0,1.0,1.0
+2003-07-10,Philippines,south_east_asian,299,43,254,1.0,1.0,1.0
+2003-07-10,Singapore,south_east_asian,299,43,254,1.0,1.0,1.0
+2003-07-10,Thailand,south_east_asian,299,43,254,1.0,1.0,1.0
+2003-07-10,Viet Nam,south_east_asian,299,43,254,1.0,1.0,1.0
+2003-07-10,China,east_asian,7757,730,6882,7459.0,688.0,6629.0
+2003-07-10,"Hong Kong SAR, China",east_asian,7757,730,6882,1.0,1.0,1.0
+2003-07-10,"Macao SAR, China",east_asian,7757,730,6882,1.0,1.0,1.0
+2003-07-10,"Taiwan, China",east_asian,7757,730,6882,1.0,1.0,1.0
+2003-07-10,Republic of Korea,east_asian,7757,730,6882,1.0,1.0,1.0
+2003-07-11,France,western_europe,26,1,24,0.0,0.0,0.0
+2003-07-11,Germany,western_europe,26,1,24,1.0,1.0,1.0
+2003-07-11,Italy,western_europe,26,1,24,1.0,1.0,1.0
+2003-07-11,Spain,western_europe,26,1,24,1.0,1.0,1.0
+2003-07-11,United Kingdom,western_europe,26,1,24,1.0,1.0,1.0
+2003-07-11,Indonesia,south_east_asian,299,43,254,274.0,43.0,231.0
+2003-07-11,Malaysia,south_east_asian,299,43,254,1.0,1.0,1.0
+2003-07-11,Philippines,south_east_asian,299,43,254,1.0,1.0,1.0
+2003-07-11,Singapore,south_east_asian,299,43,254,1.0,1.0,1.0
+2003-07-11,Thailand,south_east_asian,299,43,254,1.0,1.0,1.0
+2003-07-11,Viet Nam,south_east_asian,299,43,254,1.0,1.0,1.0
+2003-07-11,China,east_asian,7757,730,6885,7459.0,688.0,6632.0
+2003-07-11,"Hong Kong SAR, China",east_asian,7757,730,6885,1.0,1.0,1.0
+2003-07-11,"Macao SAR, China",east_asian,7757,730,6885,1.0,1.0,1.0
+2003-07-11,"Taiwan, China",east_asian,7757,730,6885,1.0,1.0,1.0
+2003-07-11,Republic of Korea,east_asian,7757,730,6885,1.0,1.0,1.0
